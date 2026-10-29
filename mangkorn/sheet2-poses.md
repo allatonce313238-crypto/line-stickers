@@ -39,7 +39,7 @@ No tears on any pose. Text: only a small number under each pose (1 to 12). No ot
 | 1 Standing, neutral | base for Angry, Crying, Fighting! |
 | 2 Waving | 01 Hello |
 | 3 Flying | 02 On my way! |
-| 4 Blank sign | 03 OK, 04 No (Claude adds nothing: the O / X shape is drawn by ChatGPT per sticker) |
+| 4 Blank sign | 03 OK (red O on the sign), 04 No (blue X on the sign); the O / X is drawn per sticker |
 | 5 Bowing | 05 Thank you, 06 Sorry |
 | 6 Paws together | 07 Please |
 | 7 Paw heart | 08 Love |
