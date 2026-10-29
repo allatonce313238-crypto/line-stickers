@@ -16,3 +16,14 @@ Output: ONE single sticker image, square 1:1, full body, centered, with empty sp
 Background: solid flat pure green (#00FF00) everywhere, no shadow, no floor, no gradient. Do not use any green on the character or effects.
 NO white border or sticker outline. NO text, NO letters, NO numbers, NO speech bubbles. NO tears. Steam is light grey, not white.
 ```
+
+## Fix for v1 → v2 (proportions)
+
+```
+Edit the image you just made. Keep the angry face, puffed cheeks, red blush, anger mark, steam, colors and the green background. Fix only his PROPORTIONS, which are wrong:
+- His body is squashed: there is almost no body between his head and his feet, and the head sits directly on top of the feet.
+- Make him like the reference sheet and like 09 LOL: the head about half of his total height, then a clearly visible round body with the cream fluffy chest and belly, his arms crossed over the chest, and short legs coming out under the belly with the feet in front.
+- His feet are too big: make them the normal small size from the reference sheet.
+- His wings are too big for this size: make them the normal size from the reference sheet.
+NO text, NO letters, NO white border, NO tears. Background stays solid flat pure green (#00FF00).
+```
