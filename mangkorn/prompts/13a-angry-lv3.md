@@ -40,3 +40,16 @@ Edit the attached sticker of Mangkorn holding a sign (IMAGE 1). Keep EXACTLY his
 4. Add two small light-grey steam puffs with dark outlines shooting out of the top of his head between the horns, and a small red cross-shaped anger mark near his forehead.
 NO text, NO letters, NO numbers, NO white border, NO tears. Background stays solid flat pure green (#00FF00).
 ```
+
+## v4: build from 11 Surprised (user's choice)
+
+Attach `incoming/11-surprised-final-src.png`.
+
+```
+Edit the attached sticker of Mangkorn (he is surprised in it). Keep EXACTLY his body, proportions, sitting pose, legs, feet, wings, tail, crown, horns, size, angle, colors and style. Change only these things:
+1. Expression: cute chibi ANGRY face: cheeks puffed out round like a balloon, the whole face flushed red, eyebrows angled down, big ROUND amber eyes glaring (fully open, not sleepy), mouth pressed into a small pout. Keep his face shape, ears and eyes exactly the same size and position.
+2. Paws: his two paws stay near his cheeks but are now small clenched fists.
+3. Remove the yellow zigzag shock lines, the red "!!" and the grey shake lines.
+4. Add two small light-grey steam puffs with dark outlines shooting out of the top of his head between the horns, and a small red cross-shaped anger mark near his forehead.
+NO text, NO letters, NO numbers, NO white border, NO tears. Background solid flat pure green (#00FF00).
+```
