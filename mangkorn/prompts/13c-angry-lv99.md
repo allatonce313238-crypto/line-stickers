@@ -26,3 +26,14 @@ Keep this exact dragon design and face (the roaring head, fangs, crown, horns wi
 3. EYES: glowing blood RED with tiny slit pupils.
 Style stays detailed 16-bit pixel art with bold dark outlines. Background solid flat pure green (#00FF00) outside the dragon and aura. NO text, NO letters, NO numbers, NO white border, NO white effects.
 ```
+
+## Fix v1 → v2 (user's choice): keep the close-up, zoom out only a little
+
+```
+Keep this exact image: the same close-up of the roaring dragon head and neck, same design, face, fangs, crown, horns with gold bands, gold studs, cream fur, fire, colors and style. Change only the framing:
+1. ZOOM OUT A LITTLE (about 20%) so NOTHING is cut off at the edges: both horns fully visible with their tips, the flames and smoke fully inside the image, and a clear band of empty green space on every side. The neck may fade out at the bottom into dark smoke instead of being cut by the edge.
+2. Leave extra empty green space in the top-left corner (for a label added later).
+3. Eyes: glowing blood RED with tiny slit pupils.
+4. Add dark red-and-black smoke and floating black ash around the fire for a darker, more demonic mood.
+Background solid flat pure green (#00FF00). NO text, NO letters, NO numbers, NO white border, NO white effects.
+```
