@@ -26,7 +26,7 @@ New chat? Read this whole file first, then continue from **Status**.
 - 05 Thank you: v3 = Chinese formal bow (front view, head bowed into joined paws, elbows out, no hearts) → `stickers/05-thank-you.png` (334×320). **Approved.** Older: v1 sitting (`incoming/05-thank-you-v1-sitting-clean.png`), v2 paws at chest (`incoming/05-thank-you-v2-clean.png`).
 - 06 Sorry: v4 = head down, eyes squeezed (><), paws together low, sweat drops → `stickers/06-sorry.png` (370×316). **Approved.** (The small white wiggle lines by the tail were removed by the cleanup.) Older versions in `incoming/06-*`. v2 (`incoming/06-sorry-v2-clean.png`) was offered for 07 Please; user wants a new pose.
 - 07 So full: v4 (sleepy-content eyes, orange burp puff, lying back) + forehead dots repainted solid red in code → `stickers/07-so-full.png` (340×320, `--no-border`). **Approved.** Older versions in `incoming/07-*`.
-- Next: 08 Love prompt (kneeling, blowing a heart-shaped fire puff, wings wide); waiting for the image.
+- 08 Love: v1 (sitting, paws at cheeks, heart-shaped fire breath, heart eyes) → `stickers/08-love.png` (370×290, `--no-border`). Waiting for approval.
 - Tool update: stricter green removal + lime-yellow pocket removal; 01–03 re-processed with it.
 
 ## Rules from the user (follow every time)
