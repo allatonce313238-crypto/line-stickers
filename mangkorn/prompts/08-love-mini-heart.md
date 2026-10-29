@@ -31,3 +31,11 @@ Edit the image you just made. Keep his cat face, the wink, the small ":3" smile 
 
 NO text, NO letters, NO white border, NO tears. Background stays solid flat pure green (#00FF00).
 ```
+
+## Fix for v2 → v3 (body length back to the reference)
+
+```
+Edit the image you just made. Keep the face, the wink, the finger heart, the colors and the green background. Fix only his body proportions: the body is now too short and squashed. Match the proportions on the attached reference sheet exactly: the head is about half of his total height, with a clearly visible round body and chest below it (cream fluffy chest fur), and short but visible legs. Not taller and not shorter than the reference sheet.
+
+NO text, NO letters, NO white border, NO tears. Background stays solid flat pure green (#00FF00).
+```

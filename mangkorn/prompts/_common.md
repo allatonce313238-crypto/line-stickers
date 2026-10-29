@@ -23,3 +23,5 @@ removes green + white border, drops unwanted text pieces inside the box, fits in
 Add `--no-border` when ChatGPT drew NO white border: otherwise white fur/plates touching the green get erased.
 
 Effects must not be white (white touching the green is removed with the border). Use yellow, orange or red effects.
+
+Proportions: match the reference sheets (head about half of total height, round body with visible cream chest, short visible legs). Never say "head as big as the whole body": it makes him too short.
