@@ -24,7 +24,7 @@ New chat? Read this whole file first, then continue from **Status**.
 - 03 OK: v1 repeated the Hello pose (rejected); v2 has the sign with a red O → `mangkorn/stickers/03-ok.png` (326×320). **Approved.**
 - 04 No: v1 (grumpy face and crossed arm accepted). X was red; recoloured **blue** in code → `stickers/04-no.png` (344×320). **Approved.** Red version kept in `incoming/04-no-v1-red-x-clean.png`.
 - 05 Thank you: v3 = Chinese formal bow (front view, head bowed into joined paws, elbows out, no hearts) → `stickers/05-thank-you.png` (334×320). **Approved.** Older: v1 sitting (`incoming/05-thank-you-v1-sitting-clean.png`), v2 paws at chest (`incoming/05-thank-you-v2-clean.png`).
-- Next: 06 Sorry prompt ready (deep side bow, drooping ears/wings, sweat drop); waiting for the image.
+- 06 Sorry: v1 (deep bow) looked asleep (`incoming/06-sorry-v1-looks-asleep.png`, could suit 15 Tired). User chose the **finger poke** pose; prompt updated; waiting for v2.
 - Tool update: stricter green removal + lime-yellow pocket removal; 01–03 re-processed with it.
 
 ## Rules from the user (follow every time)
