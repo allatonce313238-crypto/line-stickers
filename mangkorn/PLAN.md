@@ -14,7 +14,7 @@ New chat? Read this whole file first, then continue from **Status**.
 - Decided: LINE stickers (not emoji), 16 stickers, static, this repo.
 - Decided: sticker 16 = Hug (small Mx doll). **No white border** (only the character's own dark pixel-art outline).
 - Decided: make **Sheet 1, then Sheet 2** first; use them as references for every sticker.
-- Sheet 1 v1 made (`mangkorn/incoming/sheet1-identity-v1.png`): design matches the references, but tears on almost every face, no 3/4 view, eye swatch labeled blue. Fix prompt: `mangkorn/sheet1-fix.md`. Waiting for the user: fix or accept v1.
+- Sheet 1 v1 made (`mangkorn/incoming/sheet1-identity-v1.png`): design matches the references, but tears on almost every face, no 3/4 view, eye swatch labeled blue (marked in `mangkorn/incoming/sheet1-identity-v1-issues.png`). Fix prompt: `mangkorn/sheet1-fix.md` (eye swatch = `#FAB311`, sampled from his real eye). Waiting for v2.
 
 ## Rules from the user (follow every time)
 
@@ -44,6 +44,7 @@ New chat? Read this whole file first, then continue from **Status**.
 ## References
 
 - In this repo, `mangkorn/references/`: `dragon-fighting.png` (main design reference), `dragon-hungry.png`, `dragon-sleeping-zzz.png`, `mx-hug-doll.png` (Mx doll for the Hug sticker). Copied from team-kpi-dashboard `line-stickers/full-res/07–09.png` and `animated-emoji/16-hug/kling-start.png`.
+- Eye colours (sampled): MawKorn amber `#FAB311` (gradient `#D11D04` → `#F05D13` → `#FAB311` → `#FDE73D`); Mx blue `#3B9FF5` (gradient `#1A1C72` → `#1D49B9` → `#3B9FF5` → `#90E3FD`).
 - Design: red scales with cream fluffy fur, dark curved horns with gold bands, gold crown with a red gem, red wings with gold edges, fluffy tail with gold spikes, big amber eyes, small fangs.
 - `mangkorn/sheet1-identity.md`, `mangkorn/sheet2-poses.md`: design-sheet prompts (optional, for consistency).
 
