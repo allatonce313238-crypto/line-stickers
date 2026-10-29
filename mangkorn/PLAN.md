@@ -18,7 +18,8 @@ New chat? Read this whole file first, then continue from **Status**.
 - Sheet 1 **approved**: v2 with the eye swatch fixed in code (amber `#FAB311`) → `mangkorn/references/sheet1-identity-final.png`. Remaining faint tears on some close-ups are accepted; every sticker prompt says "no tears" (except Crying).
 - Sheet 2: ChatGPT ignored `sheet2-poses.md` and drew generic game poses; the user **kept it as it is** → `mangkorn/references/sheet2-poses-final.png`.
 - Sheet 3 v1 copied Sheet 2's poses (rejected). v2 (new ChatGPT chat, only Sheet 1 attached) has all 9 poses → `mangkorn/references/sheet3-poses-final.png`. Notes for sticker prompts: Sign is a round sign on a stick held in one paw; Love holds a heart instead of making one with paws; Tired looks asleep (Zzz); Hug doll is a cream cat plush with a mouth (use `mx-hug-doll.png` for the real sticker); sheet has a white die-cut border, the stickers must NOT.
-- Next: sticker prompts, starting with 01 Hello.
+- Sticker prompts: `mangkorn/prompts/NN-name.md` (shared rules in `_common.md`); one attach image for all stickers: `references/attach-stickers.png`.
+- Next: 01 Hello prompt ready; waiting for the user's image.
 
 ## Rules from the user (follow every time)
 
