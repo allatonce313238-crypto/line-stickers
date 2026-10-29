@@ -23,3 +23,15 @@ Do NOT copy the pose, angle or layout of any earlier sticker in this chat: follo
 ## After making the image
 
 Attach it in the Claude chat; Claude saves it to `mangkorn/incoming/07-so-full-v1.png`.
+
+## Fix for v1 → v2 (belly bigger, face back on model)
+
+```
+Edit the image you just made. Keep the pose, the plate stack, the colors and the green background. Fix only these two things:
+
+1. BELLY: make his belly MUCH bigger and rounder, a giant puffed-up ball sticking up high, clearly bigger than his head, stretched tight like a balloon. His paw rests on top of it.
+
+2. FACE: his face has drifted off-model. Copy the face EXACTLY from the FRONT view on the top reference sheet: a big round cat-like face with lots of fluffy cream fur on the cheeks, big round amber eyes (here relaxed and half-closed, NOT slanted or narrow), small pink nose, two small RED dots on the forehead (not yellow), a happy closed smile with two small fangs showing, rosy cheeks. The gold crown with the red gem must be the same large size as on the reference sheet, and the spiky red fur crest around his head as full as on the sheet.
+
+NO text, NO letters, NO white border, NO tears. Background stays solid flat pure green (#00FF00).
+```
