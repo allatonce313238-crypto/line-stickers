@@ -6,7 +6,7 @@ Replaces Please (dropped: too similar to 05 and 06). Not a standing pose.
 
 ```
 Draw a sticker that means "Yummy, I'm eating!". The image must contain no words or letters at all.
-Pose: Mangkorn SITS on the ground with his short chubby legs stretched out in front of him (pink-padded soles showing), in a 3/4 front view. With both paws he holds a big roast chicken drumstick (golden brown meat with a white bone end) and takes a happy bite. His cheeks are puffed and full, eyes closed in a blissful happy curve, rosy cheeks. Tail curled beside him, wings relaxed. Two or three small orange sparkles near the drumstick.
+Pose: a SIDE view, Mangkorn faces RIGHT. He sits cross-legged on the ground, both wings spread WIDE open behind him, tail curled around in FRONT of his feet. He holds a big roast chicken drumstick (golden brown meat, white bone end) up in front of his face with both paws, mouth wide open about to take a big bite, small fangs showing. His eyes are wide OPEN and sparkling with excitement, looking at the drumstick, a tiny drop of drool at the corner of his mouth (drool, not a tear). Two or three small orange sparkles around the drumstick.
 He must have exactly two arms and two short chubby chibi legs like in the reference sheet.
 
 Character: Mangkorn, the chibi red dragon in the attached reference sheets. Keep his design IDENTICAL: cat-like face, amber eyes, small fangs, rosy cheeks, dark brown horns with gold bands, gold crown with a red gem, red scales with gold diamond studs, cream fluffy fur on ears, cheeks, chest and tail, dark brown hand paws, pink-padded feet, red wings with gold edges.
@@ -14,6 +14,8 @@ Style: the same 16-bit pixel art with bold dark outlines, bright saturated color
 Output: ONE single sticker image, square 1:1, the character alone, full body, centered, with empty space around him on every side.
 Background: solid flat pure green (#00FF00) everywhere, no shadow, no floor, no gradient. Do not use any green on the character or effects.
 NO white border or sticker outline around him. NO text, NO letters, NO speech bubbles. NO tears.
+Eyes: big OPEN round amber eyes with white shine, unless this prompt says otherwise. NEVER use squeezed "> <" eyes or closed-curve eyes unless this prompt asks for them.
+Do NOT copy the pose, angle or layout of any earlier sticker in this chat: follow only the pose written above.
 ```
 
 ## After making the image

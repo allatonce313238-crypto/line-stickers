@@ -10,6 +10,8 @@ Style: the same 16-bit pixel art with bold dark outlines, bright saturated color
 Output: ONE single sticker image, square 1:1, the character alone, full body, centered, with empty space around him on every side.
 Background: solid flat pure green (#00FF00) everywhere, no shadow, no floor, no gradient. Do not use any green on the character or effects.
 NO white border or sticker outline around him. NO text, NO letters, NO speech bubbles. NO tears.
+Eyes: big OPEN round amber eyes with white shine, unless this prompt says otherwise. NEVER use squeezed "> <" eyes or closed-curve eyes unless this prompt asks for them.
+Do NOT copy the pose, angle or layout of any earlier sticker in this chat: follow only the pose written above.
 ```
 
 Never put the sticker name in quotes in the prompt (e.g. "Hello"): ChatGPT then writes it as text. Describe the meaning instead.
