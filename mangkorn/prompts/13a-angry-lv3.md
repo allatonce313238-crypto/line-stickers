@@ -27,3 +27,16 @@ Edit the image you just made. Keep the angry face, puffed cheeks, red blush, ang
 - His wings are too big for this size: make them the normal size from the reference sheet.
 NO text, NO letters, NO white border, NO tears. Background stays solid flat pure green (#00FF00).
 ```
+
+## v3: build from 04 No (v1, v2 rejected: don't match the set's proportions)
+
+Attach `incoming/04-no-v1.png` (+ `references/attach-stickers.png`).
+
+```
+Edit the attached sticker of Mangkorn holding a sign (IMAGE 1). Keep EXACTLY his body, proportions, sitting pose, legs, feet, wings, tail, size, angle, colors, style and the green background. Change only these things:
+1. Remove the sign and its stick completely.
+2. Both arms crossed over his chest, sulking.
+3. Face: cheeks puffed out round like a balloon, the whole face flushed bright red, eyebrows angled down, glaring round amber eyes, mouth pressed into a small pout.
+4. Add two small light-grey steam puffs with dark outlines shooting out of the top of his head between the horns, and a small red cross-shaped anger mark near his forehead.
+NO text, NO letters, NO numbers, NO white border, NO tears. Background stays solid flat pure green (#00FF00).
+```
