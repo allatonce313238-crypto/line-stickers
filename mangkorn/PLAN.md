@@ -31,6 +31,8 @@ New chat? Read this whole file first, then continue from **Status**.
 
 ## Rules from the user (follow every time)
 
+- **Save tokens: do NOT remove the background or make previews until the user approves the image.** First review the raw ChatGPT image (crops only where needed) and give the fix list. Run `make_sticker.py` only after approval.
+
 - **Review every image thoroughly before replying. Do not just accept what ChatGPT drew.** Go through the checklist below, zoom in, and list everything to fix or add to make it better.
 
 ### Review checklist (every image)
