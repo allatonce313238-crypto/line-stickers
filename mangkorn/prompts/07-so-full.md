@@ -35,3 +35,17 @@ Edit the image you just made. Keep the pose, the plate stack, the colors and the
 
 NO text, NO letters, NO white border, NO tears. Background stays solid flat pure green (#00FF00).
 ```
+
+## Fix for v2 → v3 (tail, eyes, forehead dots)
+
+```
+Edit the image you just made. Keep the pose, the giant belly, the plate stack, the colors and the green background. Fix only these three things:
+
+1. TAIL: the tail is too long and too thick, and it wraps around his whole body like a snake. Make it a normal-size tail like on the reference sheet: it starts from his bottom (between his legs, at the base of his body) and curls once to the LEFT side, ending with a fluffy cream tip. It must NOT wrap around under his body and must NOT reach the right side.
+
+2. EYES: make his eyes BIG and ROUND like on the reference sheet (amber with white shine), happily relaxed and half-open, NOT narrow or slanted.
+
+3. FOREHEAD: two small solid RED dots on his forehead, one above each eye, like on the reference sheet. Not yellow, not gold.
+
+NO text, NO letters, NO white border, NO tears. Background stays solid flat pure green (#00FF00).
+```
