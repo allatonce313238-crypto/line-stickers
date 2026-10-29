@@ -14,7 +14,7 @@ New chat? Read this whole file first, then continue from **Status**.
 - Decided: LINE stickers (not emoji), 16 stickers, static, this repo.
 - Decided: sticker 16 = Hug (small Mx doll). **No white border** (only the character's own dark pixel-art outline).
 - Decided: make **Sheet 1, then Sheet 2** first; use them as references for every sticker.
-- Sheet 1 v1 made (`mangkorn/incoming/sheet1-identity-v1.png`): design matches the references, but tears on almost every face, no 3/4 view, eye swatch labeled blue (marked in `mangkorn/incoming/sheet1-identity-v1-issues.png`). Fix prompt: `mangkorn/sheet1-fix.md` (eye swatch = `#FAB311`, sampled from his real eye). Waiting for v2.
+- Sheet 1 v1 made (`mangkorn/incoming/sheet1-identity-v1.png`): design matches the references, but tears on almost every face, no 3/4 view, eye swatch labeled blue (marked in `mangkorn/incoming/sheet1-identity-v1-issues.png`). Fix prompt: `mangkorn/sheet1-fix.md` (eye swatch = `#FAB311`, sampled from his real eye). v2 made (`mangkorn/incoming/sheet1-identity-v2.png`, compare: `sheet1-v1-vs-v2.png`): Front tears fixed; faint tears still on Excited/Angry, clear tear on Surprised; still no 3/4 view; eye swatch still blue. Waiting for the user to decide.
 
 ## Rules from the user (follow every time)
 
