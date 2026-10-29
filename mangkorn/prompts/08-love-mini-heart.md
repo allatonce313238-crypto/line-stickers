@@ -17,3 +17,17 @@ Background: solid flat pure green (#00FF00) everywhere, no shadow, no floor, no 
 NO white border or sticker outline around him. NO text, NO letters, NO speech bubbles. NO tears. No white effects.
 NEVER use squeezed "> <" eyes. Do NOT copy the pose, angle or layout of any earlier sticker in this chat: follow only the pose written above.
 ```
+
+## Fix for v1 → v2
+
+```
+Edit the image you just made. Keep his cat face, the wink, the small ":3" smile with fangs, the colors and the green background. Fix these things:
+
+1. FINGER HEART: his paw is only a closed fist next to his cheek. Stretch that arm forward toward the viewer at chest height, away from his face. Draw the Korean finger heart clearly and big enough to read: the thumb and the index claw stick up and CROSS each other at the tips to make a small heart shape, the other fingers are curled in. The small pink heart floats just above the crossed fingers.
+
+2. CHIBI PROPORTIONS: his body and legs are too long and tall. Make him chibi like on the reference sheet: big head, short round body, short chubby legs (head about as big as the whole body).
+
+3. FOREHEAD: two small SOLID RED dots, one above each eye. Not gold, not rings.
+
+NO text, NO letters, NO white border, NO tears. Background stays solid flat pure green (#00FF00).
+```
