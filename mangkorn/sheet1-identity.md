@@ -32,7 +32,7 @@ Text: only small labels in plain English (Front, 3/4, Side, Back, Neutral, Happy
 
 ## After making the image
 
-Upload the finished image to the GitHub repo allatonce313238-crypto/line-stickers, branch `claude/line-stickers-bg-dicut-302vim`, as `mangkorn/incoming/sheet1-identity.png`. Do not upload to `main`.
+ChatGPT cannot upload to this private repo: attach the finished image in the Claude chat, and Claude saves it to `mangkorn/incoming/`.
 
 ## Details to verify against the original design
 

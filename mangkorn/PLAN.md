@@ -14,11 +14,11 @@ New chat? Read this whole file first, then continue from **Status**.
 - Decided: LINE stickers (not emoji), 16 stickers, static, this repo.
 - Decided: sticker 16 = Hug (small Mx doll). **No white border** (only the character's own dark pixel-art outline).
 - Decided: make **Sheet 1, then Sheet 2** first; use them as references for every sticker.
-- Next: Sheet 1 prompt is in `mangkorn/sheet1-identity.md`; waiting for ChatGPT to upload `mangkorn/incoming/sheet1-identity.png`.
+- Sheet 1 v1 made (`mangkorn/incoming/sheet1-identity-v1.png`): design matches the references, but tears on almost every face, no 3/4 view, eye swatch labeled blue. Fix prompt: `mangkorn/sheet1-fix.md`. Waiting for the user: fix or accept v1.
 
 ## Rules from the user (follow every time)
 
-0. **No copy-paste between chats. Everything goes through files in this repo.** Prompts are saved as files here; ChatGPT (connected to this repo) and new Claude chats read them from the repo. **ChatGPT uploads its finished images straight to this repo**: branch `claude/line-stickers-bg-dicut-302vim`, folder `mangkorn/incoming/` (never `main`). Every prompt file ends with the exact upload path.
+0. **No copy-paste between chats. Everything goes through files in this repo.** Prompts are saved as files here; ChatGPT (connected to this repo) and new Claude chats read them from the repo. ChatGPT can read the Markdown files but **cannot read or upload images in this private repo**, so: Claude sends the reference images in the Claude chat → the user attaches them in ChatGPT; the user attaches ChatGPT's finished image in the Claude chat → Claude saves it to `mangkorn/incoming/` on this branch.
 
 1. **Never send anything to Kling without an explicit "go".** (Not needed for this set.)
 2. **Never change Notion until the user says so.**
@@ -29,7 +29,7 @@ New chat? Read this whole file first, then continue from **Status**.
 
 ## Workflow per sticker
 
-1. I save the ChatGPT prompt as a file in `mangkorn/prompts/NN-name.md` and push it; the user tells ChatGPT to use that file; ChatGPT makes the image and uploads it to `mangkorn/incoming/NN-name.png`. I pull it from there. Pure green (#00FF00) background, no text.
+1. I save the ChatGPT prompt as a file in `mangkorn/prompts/NN-name.md` and push it; the user tells ChatGPT to use that file; the user attaches the references; ChatGPT makes the image; the user attaches it in the Claude chat and I save it to `mangkorn/incoming/NN-name.png`. Pure green (#00FF00) background, no text.
 2. I remove the green, trim, and fit it into 370×320 with a 10 px margin (even width and height), then send a preview.
 3. User approves → saved as `mangkorn/stickers/NN-name.png`.
 4. At the end: main image (240×240), tab image (96×74), validation, ZIP.
