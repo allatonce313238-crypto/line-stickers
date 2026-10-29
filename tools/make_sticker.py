@@ -4,7 +4,9 @@ Removes the green background and any white die-cut border touching it, drops
 pieces inside --drop boxes (e.g. unwanted text), clamps green spill, then fits
 the result into 370x320 with a 10 px margin and even width/height.
 
-usage: python3 make_sticker.py IN.png OUT.png [--drop x0,y0,x1,y1 ...]
+usage: python3 make_sticker.py IN.png OUT.png [--no-border] [--drop x0,y0,x1,y1 ...]
+Use --no-border when the image has no white border, so white fur/plates touching
+the green are kept.
 """
 import argparse
 import numpy as np
@@ -15,6 +17,7 @@ MAX_W, MAX_H, MARGIN = 370, 320, 10
 
 ap = argparse.ArgumentParser()
 ap.add_argument('src'); ap.add_argument('dst')
+ap.add_argument('--no-border', action='store_true', help='image has no white die-cut border: do not remove white areas')
 ap.add_argument('--drop', action='append', default=[], help='x0,y0,x1,y1: remove pieces fully inside this box')
 args = ap.parse_args()
 
@@ -22,10 +25,14 @@ im = np.array(Image.open(args.src).convert('RGB')).astype(int)
 r, g, b = im[..., 0], im[..., 1], im[..., 2]
 green = (g - np.maximum(r, b) > 10) & (g > 100)  # no green on the character, so be strict
 white = (r > 215) & (g > 215) & (b > 205)
+if args.no_border:
+    white[:] = False
 lab, _ = nd.label(green | white)
 bg = np.isin(lab, list(set(np.unique(lab[green])) - {0}))
 mx = np.maximum(np.maximum(r, g), b); mn = np.minimum(np.minimum(r, g), b)
-halo = ((mx - mn < 45) & (mn > 140)) | (g - np.maximum(r, b) > 15)
+halo = (g - np.maximum(r, b) > 15)
+if not args.no_border:
+    halo |= (mx - mn < 45) & (mn > 140)
 for _ in range(3):
     bg |= nd.binary_dilation(bg) & halo
 # lime-yellow pockets (r ~ g, little blue) touching the background are leftover

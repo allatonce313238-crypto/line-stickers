@@ -20,5 +20,6 @@ Never put the sticker name in quotes in the prompt (e.g. "Hello"): ChatGPT then 
 
 `python3 tools/make_sticker.py mangkorn/incoming/NN-name-vN.png mangkorn/stickers/NN-name.png [--drop x0,y0,x1,y1]`
 removes green + white border, drops unwanted text pieces inside the box, fits into 370×320 with a 10 px margin.
+Add `--no-border` when ChatGPT drew NO white border: otherwise white fur/plates touching the green get erased.
 
 Effects must not be white (white touching the green is removed with the border). Use yellow, orange or red effects.
