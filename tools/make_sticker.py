@@ -20,7 +20,7 @@ args = ap.parse_args()
 
 im = np.array(Image.open(args.src).convert('RGB')).astype(int)
 r, g, b = im[..., 0], im[..., 1], im[..., 2]
-green = (g - np.maximum(r, b) > 60) & (g > 150)
+green = (g - np.maximum(r, b) > 10) & (g > 100)  # no green on the character, so be strict
 white = (r > 215) & (g > 215) & (b > 205)
 lab, _ = nd.label(green | white)
 bg = np.isin(lab, list(set(np.unique(lab[green])) - {0}))
@@ -28,6 +28,12 @@ mx = np.maximum(np.maximum(r, g), b); mn = np.minimum(np.minimum(r, g), b)
 halo = ((mx - mn < 45) & (mn > 140)) | (g - np.maximum(r, b) > 15)
 for _ in range(3):
     bg |= nd.binary_dilation(bg) & halo
+# lime-yellow pockets (r ~ g, little blue) touching the background are leftover
+# green blends, not artwork (gold and yellow effects have g clearly below r)
+lime = (np.abs(r - g) < 12) & (r > 150) & (b < 90)
+lab_l, _ = nd.label(lime)
+touch = set(np.unique(lab_l[nd.binary_dilation(bg) & lime])) - {0}
+bg |= np.isin(lab_l, list(touch))
 
 fg = ~bg
 lab2, n2 = nd.label(fg)
