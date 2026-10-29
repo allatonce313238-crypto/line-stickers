@@ -30,6 +30,16 @@ New chat? Read this whole file first, then continue from **Status**.
 
 ## Rules from the user (follow every time)
 
+- **Review every image thoroughly before replying. Do not just accept what ChatGPT drew.** Go through the checklist below, zoom in, and list everything to fix or add to make it better.
+
+### Review checklist (every image)
+1. **Face vs Sheet 1:** round cat-like face, big ROUND amber eyes (not narrow/slanted), two RED forehead dots, small pink nose, small fangs, rosy cheeks, cream cheek fur, crown full size with red gem, horns with gold bands, spiky red fur crest.
+2. **Anatomy:** exactly 2 arms and 2 short chubby legs; dark brown hand paws; feet brown on top with cream soles + pink pads; 2 wings attached at the back; ONE tail starting from his bottom, normal size, cream fluffy tip (not snake-long, not wrapping around him).
+3. **Pose and expression:** matches the prompt; reads clearly at small size; not the same layout/eyes as earlier stickers (no repeated "> <" eyes).
+4. **Set fit:** clearly different from the other stickers' meanings (e.g. Thank you vs Sorry vs Please).
+5. **Rules:** no text, no white border, no tears, green background, no white effects touching green.
+6. **After cleanup:** check the transparent PNG on dark and white for holes, leftover green, erased white fur (use `--no-border` when there is no border).
+
 - **NEW (latest, overrides the repo-file workflow): give the full ChatGPT prompt in the Claude chat, in a code block. Do NOT tell ChatGPT to load anything from GitHub.** Still save each prompt in `mangkorn/prompts/` as a record.
 
 - **Keep replies short (save tokens).** For each ChatGPT step: send ONE combined attach image (`mangkorn/references/attach-<step>.png`) + one short line to paste. Nothing else unless asked.
