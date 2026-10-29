@@ -11,3 +11,10 @@ Output: ONE single sticker image, square 1:1, the character alone, full body, ce
 Background: solid flat pure green (#00FF00) everywhere, no shadow, no floor, no gradient. Do not use any green on the character or effects.
 NO white border or sticker outline around him. NO text, NO letters, NO speech bubbles. NO tears.
 ```
+
+Never put the sticker name in quotes in the prompt (e.g. "Hello"): ChatGPT then writes it as text. Describe the meaning instead.
+
+## Processing (Claude)
+
+`python3 tools/make_sticker.py mangkorn/incoming/NN-name-vN.png mangkorn/stickers/NN-name.png [--drop x0,y0,x1,y1]`
+removes green + white border, drops unwanted text pieces inside the box, fits into 370×320 with a 10 px margin.

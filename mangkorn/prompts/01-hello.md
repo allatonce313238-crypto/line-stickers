@@ -5,7 +5,7 @@ Pose reference: Sheet 3, pose 1 (WAVE).
 ## Prompt
 
 ```
-Draw sticker 01 "Hello" (but do not write any text).
+Draw a greeting sticker. The image must contain no words at all.
 Pose: like pose 1 WAVE on the attached sticker pose sheet. Mangkorn stands in a 3/4 front view, waving one paw high above his head with an open, happy smile (small fangs showing), eyes bright and open. The other paw rests at his side. Wings half open, tail curled behind him. Two or three small yellow motion lines next to the waving paw.
 
 Character: Mangkorn, the chibi red dragon in the attached reference sheets. Keep his design IDENTICAL: cat-like face, amber eyes, small fangs, rosy cheeks, dark brown horns with gold bands, gold crown with a red gem, red scales with gold diamond studs, cream fluffy fur on ears, cheeks, chest and tail, dark brown hand paws, pink-padded feet, red wings with gold edges.
