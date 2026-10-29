@@ -16,3 +16,13 @@ Output: ONE single sticker image, square 1:1, the dragon and his aura centered, 
 Background: solid flat pure green (#00FF00) everywhere outside the dragon and aura, no floor, no gradient. Do not use any green on the dragon or the aura.
 NO white border or sticker outline. NO text, NO letters, NO numbers, NO speech bubbles. NO white effects.
 ```
+
+## Fix for v1 → v2 (zoom out, full body, dark aura)
+
+```
+Keep this exact dragon design and face (the roaring head, fangs, crown, horns with gold bands, gold studs, cream fur, fire). Fix these things:
+1. ZOOM OUT: right now only his head and neck fill the whole image and are cut off at every edge (horns cut at the top, body cut at the bottom). Show his WHOLE body, rearing up on his hind legs facing the viewer, huge torn spiky red wings with gold edges spread wide, claws raised, tail lashing. Everything, including horns, wings, tail and fire, must fit inside the image with clear empty green space on every side, and extra empty space in the top-left corner.
+2. AURA: add a huge DARK red-and-black demonic aura behind him shaped like giant shadow wings and long claws, with floating black ash, like an anime power-up scene.
+3. EYES: glowing blood RED with tiny slit pupils.
+Style stays detailed 16-bit pixel art with bold dark outlines. Background solid flat pure green (#00FF00) outside the dragon and aura. NO text, NO letters, NO numbers, NO white border, NO white effects.
+```
