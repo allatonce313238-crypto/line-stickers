@@ -53,3 +53,20 @@ Edit the attached sticker of Mangkorn (he is surprised in it). Keep EXACTLY his 
 4. Add two small light-grey steam puffs with dark outlines shooting out of the top of his head between the horns, and a small red cross-shaped anger mark near his forehead.
 NO text, NO letters, NO numbers, NO white border, NO tears. Background solid flat pure green (#00FF00).
 ```
+
+## v5: user likes v2, but it doesn't look enough like the character sheet
+
+Attach `incoming/13a-angry-lv3-v2.png` + `references/attach-stickers.png`.
+
+```
+Two images are attached. IMAGE 1 is an angry sticker of Mangkorn. IMAGE 2 is his official character sheet.
+Edit IMAGE 1. Keep the angry idea exactly: puffed cheeks, small pout, frowning brows, red blush, crossed arms, the two grey steam puffs and the red anger mark, the green background.
+Make him look exactly like the FRONT view on the character sheet in IMAGE 2:
+1. Head: a full spiky red mane of scale-feathers framing his whole face on all sides, like on the sheet (now the mane is too thin and the face looks too wide).
+2. Eyes: bigger, like on the sheet (large round amber eyes with big white shine), but still glaring.
+3. Ears: big pointed cat ears with lots of cream fluffy fur inside, like on the sheet.
+4. Sitting pose like the FRONT view on the sheet: sitting upright, legs forward and spread a little, both pink paw-pad soles visible.
+5. Tail: normal size like on the sheet (now it is much too big and long).
+6. Wings: same size and position as on the sheet, raised behind his shoulders.
+NO text, NO letters, NO numbers, NO white border, NO tears. Background solid flat pure green (#00FF00).
+```
