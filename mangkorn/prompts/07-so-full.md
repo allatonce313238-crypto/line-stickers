@@ -49,3 +49,17 @@ Edit the image you just made. Keep the pose, the giant belly, the plate stack, t
 
 NO text, NO letters, NO white border, NO tears. Background stays solid flat pure green (#00FF00).
 ```
+
+## Fix for v3 → v4 (feel "stuffed", lie flat, even dots)
+
+```
+Edit the image you just made. Keep his design, the giant round belly, the tail, the plate stack, the colors and the green background. Fix these three things:
+
+1. FEELING "SO FULL": he must look stuffed and satisfied, not excited. Keep his eyes big and round, but make them heavy-lidded and sleepy-content (upper eyelids halfway down), looking up at the sky. Content smile with mouth closed and the two small fangs showing. Add one small ORANGE burp puff (a little cloud with an orange outline) floating from his mouth. Keep the crumbs on his cheek.
+
+2. LYING FLAT: he lies flat on his BACK on the ground, his head and shoulders resting on the ground too (not propped up, not leaning against anything). The giant belly points up to the sky. One paw rests on top of his belly, the other arm lies relaxed on the ground. His feet stick up a little.
+
+3. FOREHEAD DOTS: exactly two small solid red dots on his forehead, placed evenly, one directly above each eye.
+
+NO text, NO letters, NO white border, NO tears, no white effects. Background stays solid flat pure green (#00FF00).
+```
