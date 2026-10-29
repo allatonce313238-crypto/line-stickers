@@ -1,12 +1,13 @@
 # 16 Hug
 
+User: copy the pose from Sheet 3 exactly.
+
 ## Prompt
 
 ```
-Draw a NEW sticker that means "Big hug!". The image must contain no words or letters at all.
-Pose: Mangkorn sits on the ground, front view, hugging a small round plush doll tightly with both arms, cheek pressed against the doll. Wings wrapped forward a little around the doll. Tail curled around in front. Two or three small pink hearts floating above.
-The doll: copy the small round plush doll EXACTLY from the attached doll image (a round blob plush with dot eyes and no mouth). About half the size of Mangkorn's body.
-Face: eyes closed in a happy, peaceful curve, small content cat smile, very rosy cheeks.
+Draw ONE sticker that means "Big hug!". The image must contain no words or letters at all.
+Pose: copy panel "9. HUG" on the attached STICKER POSE SHEET (Sheet 3, bottom half of the reference image) EXACTLY: the same pose, angle, expression and effects, just as a single sticker on its own. Do not change or "improve" the pose.
+Only differences from the panel: no panel frame, no label, no white outline around him.
 
 Character: Mangkorn, the chibi red dragon-cat in the attached reference sheets. Keep his design IDENTICAL: short flat round CAT face (no snout), tiny pink triangle nose, small cat mouth with two small fangs, upright pointed cat ears with cream fur inside, big ROUND amber eyes, rosy cheeks, two small solid RED dots on the forehead (one above each eye), dark brown horns with gold bands, gold crown with a red gem, red scales with gold diamond studs, cream fluffy fur on cheeks, chest and tail, dark brown hand paws, feet brown on top with cream soles and pink pads, red wings with gold edges. No collar or necklace.
 Proportions: exactly like the reference sheet: head about half of his total height, round body with visible cream chest, short visible legs. Exactly two arms, two legs, one tail.

@@ -1,11 +1,13 @@
 # 11 Surprised
 
+User: copy the pose from Sheet 3 exactly.
+
 ## Prompt
 
 ```
-Draw a NEW sticker that means "Whoa, what?!". The image must contain no words or letters at all.
-Pose: Mangkorn jumps back in shock, both feet off the ground, seen from a 3/4 front view facing RIGHT. Both paws up near his cheeks, wings flared wide open, tail stiff and straight up, his crown popping up a little above his head. Small orange shock lines around his head.
-Face: eyes WIDE open and round with tiny pupils, small round "o" mouth, eyebrows raised high.
+Draw ONE sticker that means "Whoa, what?!". The image must contain no words or letters at all.
+Pose: copy panel "7. SURPRISED" on the attached STICKER POSE SHEET (Sheet 3, bottom half of the reference image) EXACTLY: the same pose, angle, expression and effects, just as a single sticker on its own. Do not change or "improve" the pose.
+Only differences from the panel: no panel frame, no label, no white outline around him.
 
 Character: Mangkorn, the chibi red dragon-cat in the attached reference sheets. Keep his design IDENTICAL: short flat round CAT face (no snout), tiny pink triangle nose, small cat mouth with two small fangs, upright pointed cat ears with cream fur inside, big ROUND amber eyes, rosy cheeks, two small solid RED dots on the forehead (one above each eye), dark brown horns with gold bands, gold crown with a red gem, red scales with gold diamond studs, cream fluffy fur on cheeks, chest and tail, dark brown hand paws, feet brown on top with cream soles and pink pads, red wings with gold edges. No collar or necklace.
 Proportions: exactly like the reference sheet: head about half of his total height, round body with visible cream chest, short visible legs. Exactly two arms, two legs, one tail.
