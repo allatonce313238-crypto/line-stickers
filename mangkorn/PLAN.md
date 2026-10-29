@@ -17,7 +17,8 @@ New chat? Read this whole file first, then continue from **Status**.
 - Sheet 1 v1 made (`mangkorn/incoming/sheet1-identity-v1.png`): design matches the references, but tears on almost every face, no 3/4 view, eye swatch labeled blue (marked in `mangkorn/incoming/sheet1-identity-v1-issues.png`). Fix prompt: `mangkorn/sheet1-fix.md` (eye swatch = `#FAB311`, sampled from his real eye). v2 made (`mangkorn/incoming/sheet1-identity-v2.png`, compare: `sheet1-v1-vs-v2.png`): Front tears fixed; faint tears still on Excited/Angry, clear tear on Surprised; still no 3/4 view; eye swatch still blue.
 - Sheet 1 **approved**: v2 with the eye swatch fixed in code (amber `#FAB311`) → `mangkorn/references/sheet1-identity-final.png`. Remaining faint tears on some close-ups are accepted; every sticker prompt says "no tears" (except Crying).
 - Sheet 2: ChatGPT ignored `sheet2-poses.md` and drew generic game poses; the user **kept it as it is** → `mangkorn/references/sheet2-poses-final.png`.
-- Next: **Sheet 3** (`mangkorn/sheet3-poses.md`) with the 9 missing sticker poses; attach `references/attach-sheet3.png`. Waiting for the user's image.
+- Sheet 3 v1 copied Sheet 2's poses (rejected). v2 (new ChatGPT chat, only Sheet 1 attached) has all 9 poses → `mangkorn/references/sheet3-poses-final.png`. Notes for sticker prompts: Sign is a round sign on a stick held in one paw; Love holds a heart instead of making one with paws; Tired looks asleep (Zzz); Hug doll is a cream cat plush with a mouth (use `mx-hug-doll.png` for the real sticker); sheet has a white die-cut border, the stickers must NOT.
+- Next: sticker prompts, starting with 01 Hello.
 
 ## Rules from the user (follow every time)
 
