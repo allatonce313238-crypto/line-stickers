@@ -1,0 +1,18 @@
+# 13a Angry Lv.3
+
+Angry in 3 levels (Lv.3 / Lv.50 / Lv.99) = 3 separate stickers. A small "Lv.3" label is added in CODE afterwards (exception to the no-text rule, user's choice). ChatGPT must draw no text.
+
+## Prompt
+
+```
+Draw ONE sticker that means "I'm a little bit angry!" (the cute, mild level). The image must contain no words or letters at all.
+Pose: Mangkorn sits on the ground facing the viewer, arms crossed over his chest, pouting.
+Face: cute chibi angry face: cheeks puffed out round like a balloon (holding his breath), face flushed bright red, eyebrows angled down, eyes big and round but glaring, mouth pressed into a small pout. Two little puffs of grey steam shooting out of the top of his head between his horns. A small red anger mark (cross-shaped vein symbol) near his forehead.
+
+Character: Mangkorn, the chibi red dragon-cat in the attached reference sheets. Keep his design IDENTICAL: short flat round CAT face (no snout), tiny pink triangle nose, upright pointed cat ears with cream fur inside, big ROUND amber eyes, two small solid RED dots on the forehead (one above each eye), dark brown horns with gold bands, gold crown with a red gem, red scales with gold diamond studs, cream fluffy fur on cheeks, chest and tail, dark brown hand paws, feet brown on top with cream soles and pink pads, red wings with gold edges. No collar or necklace.
+Proportions: exactly like the reference sheet: head about half of his total height, round body with visible cream chest, short visible legs. Exactly two arms, two legs, one tail.
+Style: the same 16-bit pixel art with bold dark outlines, bright saturated colors, cute chibi proportions.
+Output: ONE single sticker image, square 1:1, full body, centered, with empty space around him on every side. Leave a little extra empty space in the top-left corner (for a label added later).
+Background: solid flat pure green (#00FF00) everywhere, no shadow, no floor, no gradient. Do not use any green on the character or effects.
+NO white border or sticker outline. NO text, NO letters, NO numbers, NO speech bubbles. NO tears. Steam is light grey, not white.
+```
