@@ -22,7 +22,8 @@ New chat? Read this whole file first, then continue from **Status**.
 - 01 Hello: v1 had "Hello!" text + white border (removed in code: `tools/make_sticker.py ... --drop 0,0,940,430`) → `mangkorn/stickers/01-hello.png` (370×310). **Approved.**
 - 02 On my way!: **tricycle** version chosen. v3 (fix prompt `prompts/02-on-my-way-fix.md`) fixed the floating rear wheel. Feet stay dark brown on top: that matches `dragon-hungry.png` (brown feet, cream soles with pink pads), so the earlier foot note was wrong. → `mangkorn/stickers/02-on-my-way.png` (324×320). Flying v1 kept as `incoming/02-on-my-way-v1-flying-clean.png`. **Approved.**
 - 03 OK: v1 repeated the Hello pose (rejected); v2 has the sign with a red O → `mangkorn/stickers/03-ok.png` (326×320). **Approved.**
-- 04 No: v1 has a RED X (asked blue), arms crossed instead of palm forward, grumpy face. Processed red version → `stickers/04-no.png`; blue-X version recoloured in code → `incoming/04-no-v1-blue-x.png`. Waiting for the user to choose.
+- 04 No: v1 (grumpy face and crossed arm accepted). X was red; recoloured **blue** in code → `stickers/04-no.png` (344×320). **Approved.** Red version kept in `incoming/04-no-v1-red-x-clean.png`.
+- Next: 05 Thank you prompt ready; waiting for the image.
 - Tool update: stricter green removal + lime-yellow pocket removal; 01–03 re-processed with it.
 
 ## Rules from the user (follow every time)
