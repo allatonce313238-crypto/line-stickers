@@ -43,7 +43,6 @@ New chat? Read this whole file first, then continue from **Status**.
 
 ## References
 
-- `team-kpi-dashboard` (branch above): `line-stickers/full-res/08.png` (MawKorn standing, "Fighting!", main design reference), `line-stickers/full-res/07.png` (sleeping).
 - In this repo, `mangkorn/references/`: `dragon-fighting.png` (main design reference), `dragon-hungry.png`, `dragon-sleeping-zzz.png`, `mx-hug-doll.png` (Mx doll for the Hug sticker). Copied from team-kpi-dashboard `line-stickers/full-res/07–09.png` and `animated-emoji/16-hug/kling-start.png`.
 - Design: red scales with cream fluffy fur, dark curved horns with gold bands, gold crown with a red gem, red wings with gold edges, fluffy tail with gold spikes, big amber eyes, small fangs.
 - `mangkorn/sheet1-identity.md`, `mangkorn/sheet2-poses.md`: design-sheet prompts (optional, for consistency).
