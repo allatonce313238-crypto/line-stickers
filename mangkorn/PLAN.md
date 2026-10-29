@@ -12,8 +12,9 @@ New chat? Read this whole file first, then continue from **Status**.
 ## Status (2026-10-29)
 
 - Decided: LINE stickers (not emoji), 16 stickers, static, this repo.
-- Open: sticker 16 (open slot), outline style, and whether to make Sheet 1/Sheet 2 first.
-- No images made yet.
+- Decided: sticker 16 = Hug (small Mx doll). **No white border** (only the character's own dark pixel-art outline).
+- Decided: make **Sheet 1, then Sheet 2** first; use them as references for every sticker.
+- Next: Sheet 1 prompt given to the user, waiting for their image.
 
 ## Rules from the user (follow every time)
 
@@ -41,6 +42,8 @@ New chat? Read this whole file first, then continue from **Status**.
 ## References
 
 - `team-kpi-dashboard` (branch above): `line-stickers/full-res/08.png` (MawKorn standing, "Fighting!", main design reference), `line-stickers/full-res/07.png` (sleeping).
+- Dragon stickers from the Mx-era set: `line-stickers/full-res/07.png` (zZZ), `08.png` (Fighting!), `09.png` (Hungry).
+- Mx doll for the Hug sticker: `line-stickers/animated-emoji/16-hug/kling-start.png`.
 - Design: red scales with cream fluffy fur, dark curved horns with gold bands, gold crown with a red gem, red wings with gold edges, fluffy tail with gold spikes, big amber eyes, small fangs.
 - `mangkorn/sheet1-identity.md`, `mangkorn/sheet2-poses.md`: design-sheet prompts (optional, for consistency).
 
@@ -63,6 +66,6 @@ New chat? Read this whole file first, then continue from **Status**.
 | 13 | Angry | Stomping, small burst of fire, steam from the ears |
 | 14 | Fighting! | Fists up, breathing fire (like `full-res/08.png`) |
 | 15 | Tired | Lying flat, exhausted |
-| 16 | *Open* | Ideas: Hug (with a small Mx doll), Good job, Shy… |
+| 16 | Hug | Hugs a small round Mx plush doll (dot eyes, no mouth) |
 
 Not wanted in the 16: Good morning, Good night.
