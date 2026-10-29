@@ -26,7 +26,7 @@ New chat? Read this whole file first, then continue from **Status**.
 - 05 Thank you: v3 = Chinese formal bow (front view, head bowed into joined paws, elbows out, no hearts) → `stickers/05-thank-you.png` (334×320). **Approved.** Older: v1 sitting (`incoming/05-thank-you-v1-sitting-clean.png`), v2 paws at chest (`incoming/05-thank-you-v2-clean.png`).
 - 06 Sorry: v4 = head down, eyes squeezed (><), paws together low, sweat drops → `stickers/06-sorry.png` (370×316). **Approved.** (The small white wiggle lines by the tail were removed by the cleanup.) Older versions in `incoming/06-*`. v2 (`incoming/06-sorry-v2-clean.png`) was offered for 07 Please; user wants a new pose.
 - 07 So full: v4 (sleepy-content eyes, orange burp puff, lying back) + forehead dots repainted solid red in code → `stickers/07-so-full.png` (340×320, `--no-border`). **Approved.** Older versions in `incoming/07-*`.
-- 08 Love: v1 (sitting, paws at cheeks, heart-shaped fire breath, heart eyes) → `stickers/08-love.png` (370×290, `--no-border`). Waiting for approval.
+- 08 Love: v1 (sitting, paws at cheeks, heart-shaped fire breath, heart eyes) → `stickers/08-love.png` (370×290, `--no-border`). User: face looks like a DOG, he is a dragon-like CAT → fix prompt v1→v2 (cat face, fire from front of mouth, remove collar). Waiting for v2.
 - Tool update: stricter green removal + lime-yellow pocket removal; 01–03 re-processed with it.
 
 ## Rules from the user (follow every time)
@@ -34,7 +34,7 @@ New chat? Read this whole file first, then continue from **Status**.
 - **Review every image thoroughly before replying. Do not just accept what ChatGPT drew.** Go through the checklist below, zoom in, and list everything to fix or add to make it better.
 
 ### Review checklist (every image)
-1. **Face vs Sheet 1:** round cat-like face, big ROUND amber eyes (not narrow/slanted), two RED forehead dots, small pink nose, small fangs, rosy cheeks, cream cheek fur, crown full size with red gem, horns with gold bands, spiky red fur crest.
+1. **Face vs Sheet 1:** MawKorn is a dragon-like CAT, never dog-like (short flat face, no snout, tiny triangle nose, small ":3" mouth, upright pointed cat ears); round cat-like face, big ROUND amber eyes (not narrow/slanted), two RED forehead dots, small pink nose, small fangs, rosy cheeks, cream cheek fur, crown full size with red gem, horns with gold bands, spiky red fur crest.
 2. **Anatomy:** exactly 2 arms and 2 short chubby legs; dark brown hand paws; feet brown on top with cream soles + pink pads; 2 wings attached at the back; ONE tail starting from his bottom, normal size, cream fluffy tip (not snake-long, not wrapping around him).
 3. **Pose and expression:** matches the prompt; reads clearly at small size; not the same layout/eyes as earlier stickers (no repeated "> <" eyes).
 4. **Set fit:** clearly different from the other stickers' meanings (e.g. Thank you vs Sorry vs Please).
