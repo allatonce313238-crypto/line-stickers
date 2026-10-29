@@ -1,12 +1,14 @@
-# 07 Eating
+# 07 So full
 
-Replaces Please (dropped: too similar to 05 and 06). Not a standing pose.
+Replaces Please (dropped). Eating v1/v2 rejected; user's idea: stuffed after eating, lying on his back.
 
 ## Prompt
 
 ```
-Draw a sticker that means "Yummy, I'm eating!". The image must contain no words or letters at all.
-Pose: a SIDE view, Mangkorn faces RIGHT. He sits cross-legged on the ground, both wings spread WIDE open behind him, tail curled around in FRONT of his feet. He holds a big roast chicken drumstick (golden brown meat, white bone end) up in front of his face with both paws, mouth wide open about to take a big bite, small fangs showing. His eyes are wide OPEN and sparkling with excitement, looking at the drumstick, a tiny drop of drool at the corner of his mouth (drool, not a tear). Two or three small orange sparkles around the drumstick.
+Draw a sticker that means "I ate so much, I'm SO full!". The image must contain no words or letters at all.
+Pose: Mangkorn lies flat on his BACK on the ground, seen from a 3/4 view, after eating far too much. His cream belly is huge, round and puffed up like a balloon. One paw gently rubs his big belly, the other arm rests relaxed on the ground. His short legs stick up a little, pink-padded soles showing. Wings spread flat on the ground under him, tail lying relaxed.
+Face: very satisfied and happy, relaxed half-closed sleepy eyes (NOT squeezed "> <" eyes), content smile with closed mouth, rosy cheeks, a tiny crumb on his cheek.
+Next to his head stands a very tall stack of empty white-and-red plates and bowls, piled up HIGHER than his head (about as tall as his whole body).
 He must have exactly two arms and two short chubby chibi legs like in the reference sheet.
 
 Character: Mangkorn, the chibi red dragon in the attached reference sheets. Keep his design IDENTICAL: cat-like face, amber eyes, small fangs, rosy cheeks, dark brown horns with gold bands, gold crown with a red gem, red scales with gold diamond studs, cream fluffy fur on ears, cheeks, chest and tail, dark brown hand paws, pink-padded feet, red wings with gold edges.
@@ -20,4 +22,4 @@ Do NOT copy the pose, angle or layout of any earlier sticker in this chat: follo
 
 ## After making the image
 
-Attach it in the Claude chat; Claude saves it to `mangkorn/incoming/07-eating-v1.png`.
+Attach it in the Claude chat; Claude saves it to `mangkorn/incoming/07-so-full-v1.png`.
