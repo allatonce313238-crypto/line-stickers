@@ -21,3 +21,15 @@ Output: ONE single sticker image, square 1:1, full body, centered, with empty sp
 Background: solid flat pure green (#00FF00) everywhere, no shadow, no floor, no gradient. Do not use any green on the characters or effects.
 NO white border or sticker outline. NO text, NO letters, NO speech bubbles. NO tears. No white effects.
 ```
+
+## Fix: v1 image A (hugging, face visible) with the sitting pose of v1 image B
+
+Attach both v1 images (A = `incoming/16-hug-v1-img35.png`, B = `incoming/16-hug-v1-img36.png`).
+
+```
+Two images are attached, both of Mangkorn hugging a small Mx plush doll.
+Edit IMAGE 1. Keep his face, his happy expression, the way he hugs the doll, the doll itself, the hearts, the colors and the green background.
+Change only his SITTING POSE to match IMAGE 2: he faces the viewer straight on and sits upright and compact, not leaning to the side. Both feet are together in front of him with the pink soles facing the viewer, his fluffy tail wraps around in front of his body and feet, and both wings spread out evenly on the left and right like a frame.
+Also: two small solid RED dots on his forehead, one above each eye.
+NO text, NO letters, NO white border, NO tears. Background stays solid flat pure green (#00FF00).
+```
