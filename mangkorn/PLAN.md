@@ -20,7 +20,8 @@ New chat? Read this whole file first, then continue from **Status**.
 - Sheet 3 v1 copied Sheet 2's poses (rejected). v2 (new ChatGPT chat, only Sheet 1 attached) has all 9 poses → `mangkorn/references/sheet3-poses-final.png`. Notes for sticker prompts: Sign is a round sign on a stick held in one paw; Love holds a heart instead of making one with paws; Tired looks asleep (Zzz); Hug doll is a cream cat plush with a mouth (use `mx-hug-doll.png` for the real sticker); sheet has a white die-cut border, the stickers must NOT.
 - Sticker prompts: `mangkorn/prompts/NN-name.md` (shared rules in `_common.md`); one attach image for all stickers: `references/attach-stickers.png`.
 - 01 Hello: v1 had "Hello!" text + white border (removed in code: `tools/make_sticker.py ... --drop 0,0,940,430`) → `mangkorn/stickers/01-hello.png` (370×310). **Approved.**
-- 02 On my way!: **tricycle** version chosen. v3 (fix prompt `prompts/02-on-my-way-fix.md`) fixed the floating rear wheel. Feet stay dark brown on top: that matches `dragon-hungry.png` (brown feet, cream soles with pink pads), so the earlier foot note was wrong. → `mangkorn/stickers/02-on-my-way.png` (324×320). Flying v1 kept as `incoming/02-on-my-way-v1-flying-clean.png`. Waiting for approval.
+- 02 On my way!: **tricycle** version chosen. v3 (fix prompt `prompts/02-on-my-way-fix.md`) fixed the floating rear wheel. Feet stay dark brown on top: that matches `dragon-hungry.png` (brown feet, cream soles with pink pads), so the earlier foot note was wrong. → `mangkorn/stickers/02-on-my-way.png` (324×320). Flying v1 kept as `incoming/02-on-my-way-v1-flying-clean.png`. **Approved.**
+- Next: 03 OK prompt ready; waiting for the image.
 
 ## Rules from the user (follow every time)
 
