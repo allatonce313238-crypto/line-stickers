@@ -30,6 +30,10 @@ Bottom row: left, a color palette strip with 8 labeled color swatches; right, a 
 Text: only small labels in plain English (Front, 3/4, Side, Back, Neutral, Happy, Sad, Angry, Surprised, Sleepy, Palette, Parts). No other text, no logos. No scenery, no ground shadow.
 ```
 
+## After making the image
+
+Upload the finished image to the GitHub repo allatonce313238-crypto/line-stickers, branch `claude/line-stickers-bg-dicut-302vim`, as `mangkorn/incoming/sheet1-identity.png`. Do not upload to `main`.
+
 ## Details to verify against the original design
 
 - horn color and gold bands
