@@ -27,7 +27,8 @@ New chat? Read this whole file first, then continue from **Status**.
 - 06 Sorry: v4 = head down, eyes squeezed (><), paws together low, sweat drops → `stickers/06-sorry.png` (370×316). **Approved.** (The small white wiggle lines by the tail were removed by the cleanup.) Older versions in `incoming/06-*`. v2 (`incoming/06-sorry-v2-clean.png`) was offered for 07 Please; user wants a new pose.
 - 07 So full: v4 (sleepy-content eyes, orange burp puff, lying back) + forehead dots repainted solid red in code → `stickers/07-so-full.png` (340×320, `--no-border`). **Approved.** Older versions in `incoming/07-*`.
 - 08 Love: **mini heart v3 approved** → `stickers/08-love.png` (324×320, `--no-border`). 08b big heart: on hold (user went on to LOL, Surprised, Hug).
-- Next (user: copy Sheet 3 poses exactly): prompts 09 LOL, 11 Surprised, 16 Hug (`prompts/09-lol.md`, `11-surprised.md`, `16-hug.md`); waiting for images. 10 Excited, 12 Crying, 13 Angry, 14 Fighting!, 15 Tired not started.
+- **Approved:** 09 LOL (Sheet 3 pose 6), 11 Surprised (pose 7, red "!!" removed in code with `--drop 1000,250,1240,540`), 16 Hug (pose 9 sitting, hugging an Mx plush in the Lcky-doll style). Forehead dots on tilted heads were fine (one above each eye along the tilt).
+- Done: 01–09, 11, 16 (11 of 16). **Left: 10 Excited, 12 Crying, 13 Angry, 14 Fighting!, 15 Tired.** 08b big heart on hold. Overview: `mangkorn/stickers-overview.png`.
 - Tool update: stricter green removal + lime-yellow pocket removal; 01–03 re-processed with it.
 
 ## Rules from the user (follow every time)
