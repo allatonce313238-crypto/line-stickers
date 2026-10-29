@@ -30,6 +30,8 @@ New chat? Read this whole file first, then continue from **Status**.
 
 ## Rules from the user (follow every time)
 
+- **NEW (latest, overrides the repo-file workflow): give the full ChatGPT prompt in the Claude chat, in a code block. Do NOT tell ChatGPT to load anything from GitHub.** Still save each prompt in `mangkorn/prompts/` as a record.
+
 - **Keep replies short (save tokens).** For each ChatGPT step: send ONE combined attach image (`mangkorn/references/attach-<step>.png`) + one short line to paste. Nothing else unless asked.
 
 0. **No copy-paste between chats. Everything goes through files in this repo.** Prompts are saved as files here; ChatGPT (connected to this repo) and new Claude chats read them from the repo. The repo is **public** since 2026-10-29 (user's choice). Prompt files link reference images by raw URL: https://raw.githubusercontent.com/allatonce313238-crypto/line-stickers/claude/line-stickers-bg-dicut-302vim/mangkorn/references/<file>. If ChatGPT still cannot use a link, so: Claude sends the reference images in the Claude chat → the user attaches them in ChatGPT; the user attaches ChatGPT's finished image in the Claude chat → Claude saves it to `mangkorn/incoming/` on this branch.
