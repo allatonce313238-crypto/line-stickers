@@ -1,6 +1,6 @@
 # 17 Staring
 
-User: a blank, unblinking stare, like a reference of a white bear with huge round eyes with tiny pupils, a tiny flat mouth and three small dots "..." beside its head (the reference image is not committed). Front view, so it works whether the sticker is shown on the left or the right of the chat.
+User: a blank, unblinking stare, like a reference of a white bear with huge round eyes (thin white ring, LARGE dark pupils), a tiny flat mouth and three small dots "..." beside its head (the reference image is not committed). Front view, so it works whether the sticker is shown on the left or the right of the chat.
 Attach: `references/attach-stickers.png`.
 
 ## Prompt
@@ -8,7 +8,7 @@ Attach: `references/attach-stickers.png`.
 ```
 Draw ONE sticker that means "...(silent stare, speechless)". The image must contain no words or letters at all.
 Pose: Mangkorn sits facing the viewer straight on (front view), upright and perfectly still, both paws resting on his knees, head a tiny bit tilted forward, staring straight at the viewer without blinking.
-Face: huge round wide-open amber eyes with a clear white ring around the iris, the pupils tiny and sharp, looking straight at the viewer; eyebrows flat; a tiny straight flat mouth, no fangs showing; a faint pale, unimpressed look. A small light blue sweat drop on one side of his head (a sweat drop, not a tear). Three small dark round dots floating beside his head, in a row, drawn as simple dots (a symbol, not letters).
+Face: huge round wide-open eyes, like a blank, unblinking stare: each eye is a big circle with a thin white ring around a LARGE dark round pupil/iris (deep amber-brown, a big black pupil, one small white shine), the pupils looking straight at the viewer; eyebrows flat; a tiny straight flat mouth, no fangs showing; a pale, unimpressed look. A small light blue sweat drop on one side of his head (a sweat drop, not a tear). Three small dark round dots floating beside his head, in a row, drawn as simple dots (a symbol, not letters).
 
 Character: Mangkorn, the chibi red dragon-cat in the attached reference sheets. Keep his design IDENTICAL: short flat round CAT face (no snout), tiny pink triangle nose, upright pointed cat ears with cream fur inside, two small solid RED dots on the forehead (one above each eye), dark brown horns with gold bands, gold crown with a red gem, red scales with gold diamond studs, cream fluffy fur on cheeks, chest and tail, dark brown hand paws, feet brown on top with cream soles and pink pads, red wings with gold edges. No collar or necklace.
 Proportions: exactly like the reference sheet: head about half of his total height, round body with visible cream chest, short visible legs. Exactly two arms, two legs, one tail.
