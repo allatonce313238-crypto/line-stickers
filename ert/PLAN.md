@@ -34,7 +34,8 @@ Based on the MawKorn plan (`mangkorn/PLAN.md` on branch `claude/line-stickers-bg
 - `tools/make_sticker.py` copied from `claude/line-stickers-bg-dicut-302vim`. It needs `numpy`, `scipy`, `Pillow` (`pip install scipy` if missing). Watch: its "lime-yellow" cleanup removes pale yellow pixels with almost no blue that touch the background, so check Ert's yellow hat edges after cleanup.
 - Decided: tail = **plain dark-grey fluffy**, same colour as the fur (no rings). Sheets have small labels.
 - Sheet 1 prompts written: `ert/sheet1-identity.md` (1A full-body turnaround + arms open + staff, 1B head close-ups + expressions). Attach: `ert/references/attach-sheet1.png`.
-- Next step: user makes Sheet 1A in ChatGPT → Claude reviews.
+- Sheet 1A v1 (`ert/incoming/sheet1a-v1.png`): mostly good; the 3/4 views are wrong (fig 2 faces right but is labelled 3/4 Left, fig 6 is a mirrored Front). Fix prompt in `ert/sheet1-identity.md`. Staff in his left paw (viewer's right) like the original sticker: keep.
+- Next step: user runs the Sheet 1A fix prompt → Claude reviews v2.
 
 ## Character design (from the references)
 

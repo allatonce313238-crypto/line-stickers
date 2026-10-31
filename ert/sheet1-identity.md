@@ -77,3 +77,29 @@ Attach ChatGPT's image in the Claude chat. Claude saves it to `ert/incoming/shee
 - 3/4 views really turned (not a copy of Front).
 - Eyes amber, no tears, no blue gloves (the scene's glowing hand is magic, not a glove).
 - Staff matches the sticker version (gold curl holding the blue orb).
+
+## Sheet 1A v1 review (`ert/incoming/sheet1a-v1.png`)
+
+Good: same size and proportions everywhere, amber eyes, no tears, plain black tail, outfit matches the reference, staff matches the sticker (gold curl + blue orb + blue crystal tip), Front, Left Side, Back, Arms Open, With Staff all fine.
+With Staff holds the staff in his LEFT paw (viewer's right), same as the original Thank you sticker: keep it.
+
+Problems:
+1. Figure 2 ("3/4 Left") actually faces the viewer's RIGHT (nose and mouth right of centre, far eye on the right).
+2. Figure 6 ("3/4 Right") is NOT turned: it is the Front view mirrored (face straight on; hat emblem and tail flipped to the other side).
+→ There is no 3/4 view facing the viewer's left.
+
+Minor (accepted, not worth risking an edit): side views do not show the hat emblem / book-pouch on the correct side; Back hat tip curls the same way as Front.
+
+## Fix prompt: Sheet 1A v1 → v2
+
+Attach `ert/incoming/sheet1a-v1.png` (+ `attach-sheet1.png`).
+
+```
+Edit the attached Ert turnaround sheet. Keep everything else EXACTLY the same: layout, size, style, colors, every other figure and label. Change only these two things:
+
+1. Second figure in the top row: keep the drawing as it is (it faces the viewer's right), only change its label to "3/4 Right".
+
+2. Sixth figure in the top row (far right): it is currently just the Front view mirrored. Redraw it as a real 3/4 view facing the viewer's LEFT: the same character, body and head turned halfway toward the viewer's left, face still visible, nose and mouth shifted toward the viewer's left, the far eye smaller near the edge of the face, the tail visible behind him on the viewer's right. Do not mirror the outfit: the gold star emblem with the blue gem stays on the same side of the hat as in the Front view (the viewer's left side of the hat in Front), the brown book-pouch stays on the same hip as in the Front view. Change its label to "3/4 Left".
+
+Same size, same ground line, same pixel art style, calm neutral face, amber eyes, no tears, no staff. Plain white background. No other text.
+```
