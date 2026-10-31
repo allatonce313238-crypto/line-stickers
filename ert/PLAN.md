@@ -22,19 +22,51 @@ Based on the MawKorn plan (`mangkorn/PLAN.md` on branch `claude/line-stickers-bg
 ## Status (2026-10-31)
 
 - Decided: 16 static stickers, 16-bit pixel art, folder `ert/` on this branch.
-- **Waiting for:** the user's existing Ert reference images.
-- **Open question:** `tools/make_sticker.py` (green removal, trim, fit to 370×320) is only on branch `claude/line-stickers-bg-dicut-302vim`. Copy it to this branch? (ask)
-- Next step: save the reference images to `ert/references/`, fill in **Character design** below, then write the Sheet 1 prompt.
+- Reference images received and saved to `ert/references/`:
+  - `earth-thank-you.png`: sticker, cheerful, holding the staff. Plain dark-grey fluffy tail.
+  - `earth-thinking.png`: sticker, paw on chin, with a "..." bubble and a loading icon. Brown-and-black ringed tail.
+  - `earth-annoyed.png`: sticker, ">_<" eyes, anger mark, lightning bolts. Ringed tail.
+  - `earth-wizard-scene.png`: wide fantasy scene casting a spell, full outfit visible.
+  - `fluffy-party-poster.png`: Fluffy Party poster. Earth = 2nd member, "Great Wizard".
+- These references have text, speech bubbles and white die-cut borders. The new stickers must NOT have them.
+- **Open questions (ask):**
+  1. Name: the user says "Ert", the poster says "Earth". Which name goes in titles and file names?
+  2. Tail: plain dark-grey fluffy (`earth-thank-you.png`) or brown-and-black ringed (`earth-thinking.png`, `earth-annoyed.png`)? (Max in the poster also has a ringed tail.)
+  3. `tools/make_sticker.py` (green removal, trim, fit to 370×320) is only on branch `claude/line-stickers-bg-dicut-302vim`. Copy it to this branch?
+  4. Confirm the 16-sticker list below.
+- Next step: answers above → write the Sheet 1 prompt.
 
-## Character design (fill in from the references)
+## Character design (from the references)
 
-- Species / type: TBD
-- Face (shape, eyes, eye colour hex, nose, mouth): TBD
-- Hair / ears / head features: TBD
-- Body and proportions: TBD
-- Clothes / accessories: TBD
-- Colour palette (sample hex values from the reference, do not guess): TBD
-- Things that must never change: TBD
+- Name: **Earth** on the poster, "Ert" to the user (decide the public name). Role in Fluffy Party: **Great Wizard**.
+- Species: chibi **black fluffy cat** wizard (cat face, not a human).
+- Face: round cat face, big round **amber-gold eyes** with white shine, small pink nose, small ":3" cat mouth (pink tongue when happy), pink blush, thin whiskers.
+- Fur: dark charcoal-black, fluffy and spiky (tufts on the cheeks and head); upright cat ears with pink insides.
+- Hat: big floppy **golden-yellow wizard hat** with a bent pointed tip and a wide brim; **blue band with small gold stars**; a gold star emblem with a blue gem on the band.
+- Robe: **royal-blue wizard robe and cape** with gold trim and gold star/rune patterns, a high collar, a **gold brooch with a blue gem** at the neck, cream inner panel with gold runes.
+- Belt: brown leather belt with a gold buckle, a small pouch and a small brown book on the hip.
+- Feet: brown boots with gold trim (`earth-thinking.png`).
+- Staff: **gold staff** with a glowing **blue crystal orb** held in a gold crescent or ring at the top (Earth always carries it).
+- Tail: **TBD** (open question 2).
+- Proportions: chibi, head about half of the total height (like the stickers).
+
+### Colour palette (sampled from the reference stickers; approximate, from compressed images)
+
+| Part | Hex |
+|---|---|
+| Eye highlight / main | `#FBD520` |
+| Eye mid | `#C3950A` |
+| Eye dark | `#77320A` |
+| Fur | `#30232A` |
+| Hat yellow | `#FDCE43` |
+| Hat shading | `#DF862D` |
+| Robe blue light | `#1A7CED` |
+| Robe blue dark | `#0842AF` |
+| Tongue | `#FA977E` |
+
+### Must never change
+
+Black cat, amber eyes, yellow wizard hat with blue starry band, blue robe with gold trim, blue gem brooch, gold staff with blue orb.
 
 ## Steps
 
