@@ -38,7 +38,8 @@ Based on the MawKorn plan (`mangkorn/PLAN.md` on branch `claude/line-stickers-bg
 - Sheet 1A v2 (`ert/incoming/sheet1a-v2.png`): 3/4 views fixed; 3/4 Left now has two book-pouches and the emblem mirrored (optional fix prompt).
 - Sheet 1B v1 (`ert/incoming/sheet1b-v1.png`): expressions good; same 3/4 mistake as 1A v1 → fix prompt.
 - Design rule: the hat emblem is on Ert's RIGHT side (viewer's left in the Front view); one book-pouch on his right hip; gold chain charm on his left hip.
-- Next step: user runs the 1B fix (and optionally the 1A fix) → Claude reviews.
+- Sheet 1B v2: 3/4 Left fixed; label of head 2 fixed in code → `ert/references/sheet1b-heads-final.png` (waiting for approval). Sad ears not drooping: accepted.
+- Next step: user approves 1B final; decides on Sheet 1A (run the optional fix, or accept v2).
 
 ## Character design (from the references)
 

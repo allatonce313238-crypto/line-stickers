@@ -146,3 +146,10 @@ Edit the attached Ert head sheet. Keep everything else EXACTLY the same: layout,
 
 Same size, same pixel style, amber eyes. Plain white background. No other text.
 ```
+
+## Sheet 1B v2 review (`ert/incoming/sheet1b-v2.png`)
+
+- Head 6 fixed: real 3/4 view facing the viewer's left, ONE emblem on the near side (correct).
+- ChatGPT did NOT relabel head 2 (both said 3/4 Left) → label changed to "3/4 Right" in code (Inter Bold).
+- Sad ears still not drooping: accepted (minor).
+→ `ert/references/sheet1b-heads-final.png` (pending the user's approval).
