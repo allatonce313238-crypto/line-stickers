@@ -101,3 +101,7 @@ New chat? Read this whole file first, then continue from **Status**.
 | 16 | Hug | Hugs a small round Mx plush doll (dot eyes, no mouth) |
 
 Not wanted in the 16: Good morning, Good night.
+
+## LINE chat direction (answer given to the user)
+Stickers the user SENDS appear on the RIGHT of the chat, stickers received appear on the LEFT. A character that looks toward the chat from the right side faces LEFT; one received on the left faces RIGHT. A front-view character looks at the viewer on both sides, so it is the safest.
+- 17 Staring (new, user's request): `prompts/17-staring.md`, front view. Set count now: 14 approved or planned (01–09, 11, 16, Lv.3, Lv.99, + staring) and still open: Lv.50, 10 Excited, 12 Crying, 14 Fighting!, 15 Tired → decide which to drop/keep (16 or 24).
