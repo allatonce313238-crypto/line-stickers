@@ -46,7 +46,7 @@ Based on the MawKorn plan (`mangkorn/PLAN.md` on branch `claude/line-stickers-bg
 - Robe: **royal-blue wizard robe and cape** with gold trim and gold star/rune patterns, a high collar, a **gold brooch with a blue gem** at the neck, cream inner panel with gold runes.
 - Belt: brown leather belt with a gold buckle, a small pouch and a small brown book on the hip.
 - Feet: brown boots with gold trim (`earth-thinking.png`).
-- Staff: **gold staff** with a glowing **blue crystal orb** held in a gold crescent or ring at the top (Earth always carries it).
+- Staff: **gold staff** with a glowing **blue crystal orb** held in a gold crescent or ring at the top (Ert always carries it).
 - Tail: ONE plain fluffy tail, same dark charcoal-black as the fur, no stripes or rings.
 - Proportions: chibi, head about half of the total height (like the stickers).
 
