@@ -66,5 +66,9 @@ cw, ch = nw + 2 * MARGIN, nh + 2 * MARGIN
 cw += cw % 2; ch += ch % 2
 canvas = Image.new('RGBA', (cw, ch), (0, 0, 0, 0))
 canvas.paste(img.resize((nw, nh), Image.LANCZOS), ((cw - nw) // 2, (ch - nh) // 2))
+# resizing can bring back faint green on the edge pixels: clamp again on the final image
+cv = np.array(canvas).astype(int)
+cv[..., 1] = np.minimum(cv[..., 1], np.maximum(cv[..., 0], cv[..., 2]))
+canvas = Image.fromarray(cv.astype('uint8'), 'RGBA')
 canvas.save(args.dst, optimize=True)
 print(args.dst, canvas.size)
