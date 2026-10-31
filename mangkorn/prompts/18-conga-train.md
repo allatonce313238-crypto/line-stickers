@@ -22,3 +22,15 @@ Output: ONE single sticker image, square 1:1, all three characters centered with
 Background: solid flat pure green (#00FF00) everywhere, no shadow, no floor, no gradient. Do not use any green on the characters or effects.
 NO white border or sticker outline. NO text, NO letters, NO numbers, NO speech bubbles. NO tears. No white effects.
 ```
+
+## Fix v1 → v2 (less overlap, MawKorn fully visible, Ert eyes, fill the frame)
+
+```
+Edit the image you just made. Keep the same idea, poses, expressions, colors, music notes, sparkles, steam puffs, the green background and the pixel-art style. Fix only these things:
+1. LESS OVERLAP: spread the three characters a little further apart along the diagonal so nobody hides another. MawKorn must be fully visible: both of his wings, his fluffy tail and both legs. Ert's hat and arm must not cover MawKorn's face, horns or ears.
+2. Each character keeps both paws on the shoulder in front of him (MX on MAWKORN, MAWKORN on ERT), clearly visible.
+3. ERT'S EYES: make his pupils big and ROUND with a white shine, like on his reference sheet (not thin vertical slits).
+4. SIZE: make the three characters larger so they fill the square image better, centered, still with a small empty margin around everything (no empty band at the bottom or the right).
+5. All three are about the same size.
+NO text, NO letters, NO numbers, NO white border, NO tears, no white effects. Background stays solid flat pure green (#00FF00).
+```
