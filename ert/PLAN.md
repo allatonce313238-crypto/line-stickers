@@ -31,10 +31,11 @@ Based on the MawKorn plan (`mangkorn/PLAN.md` on branch `claude/line-stickers-bg
 - These references have text, speech bubbles and white die-cut borders. The new stickers must NOT have them.
 - **Open questions (ask):**
   1. Name: the user says "Ert", the poster says "Earth". Which name goes in titles and file names?
-  2. Tail: plain dark-grey fluffy (`earth-thank-you.png`) or brown-and-black ringed (`earth-thinking.png`, `earth-annoyed.png`)? (Max in the poster also has a ringed tail.)
-  3. `tools/make_sticker.py` (green removal, trim, fit to 370×320) is only on branch `claude/line-stickers-bg-dicut-302vim`. Copy it to this branch?
-  4. Confirm the 16-sticker list below.
-- Next step: answers above → write the Sheet 1 prompt.
+  2. `tools/make_sticker.py` (green removal, trim, fit to 370×320) is only on branch `claude/line-stickers-bg-dicut-302vim`. Copy it to this branch?
+  3. Confirm the 16-sticker list below.
+- Decided: tail = **plain dark-grey fluffy**, same colour as the fur (no rings). Sheets have small labels.
+- Sheet 1 prompts written: `ert/sheet1-identity.md` (1A full-body turnaround + arms open + staff, 1B head close-ups + expressions). Attach: `ert/references/attach-sheet1.png`.
+- Next step: user makes Sheet 1A in ChatGPT → Claude reviews.
 
 ## Character design (from the references)
 
@@ -47,7 +48,7 @@ Based on the MawKorn plan (`mangkorn/PLAN.md` on branch `claude/line-stickers-bg
 - Belt: brown leather belt with a gold buckle, a small pouch and a small brown book on the hip.
 - Feet: brown boots with gold trim (`earth-thinking.png`).
 - Staff: **gold staff** with a glowing **blue crystal orb** held in a gold crescent or ring at the top (Earth always carries it).
-- Tail: **TBD** (open question 2).
+- Tail: ONE plain fluffy tail, same dark charcoal-black as the fur, no stripes or rings.
 - Proportions: chibi, head about half of the total height (like the stickers).
 
 ### Colour palette (sampled from the reference stickers; approximate, from compressed images)
