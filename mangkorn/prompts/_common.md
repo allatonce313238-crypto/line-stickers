@@ -25,3 +25,5 @@ Add `--no-border` when ChatGPT drew NO white border: otherwise white fur/plates 
 Effects must not be white (white touching the green is removed with the border). Use yellow, orange or red effects.
 
 Proportions: match the reference sheets (head about half of total height, round body with visible cream chest, short visible legs). Never say "head as big as the whole body": it makes him too short.
+
+Facing: draw him facing the viewer (front view, or 3/4 with the face and eyes turned toward the viewer), like a character that looks at whoever reads the chat. Do not draw a pure side view unless the pose needs it.

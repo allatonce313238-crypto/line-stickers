@@ -33,6 +33,9 @@ New chat? Read this whole file first, then continue from **Status**.
 
 ## Rules from the user (follow every time)
 
+- **Facing (decided 2026-10-31): new stickers face the viewer, like the white-bear reference (front view or 3/4 with the face and eyes turned to the viewer), so the character looks at whoever sees it on either side of the chat.** Already approved stickers stay as they are unless the user asks (a side-facing one can be mirrored in code).
+- **Language: the user asked for Thai replies on 2026-10-31.**
+
 - **Save tokens: do NOT remove the background or make previews until the user approves the image.** First review the raw ChatGPT image (crops only where needed) and give the fix list. Run `make_sticker.py` only after approval.
 
 - **Review every image thoroughly before replying. Do not just accept what ChatGPT drew.** Go through the checklist below, zoom in, and list everything to fix or add to make it better.
