@@ -34,3 +34,28 @@ Edit the image you just made. Keep the same idea, poses, expressions, colors, mu
 5. All three are about the same size.
 NO text, NO letters, NO numbers, NO white border, NO tears, no white effects. Background stays solid flat pure green (#00FF00).
 ```
+
+## v3: new chat, 3 separate reference images (v2 rejected: off-design)
+
+v2 problems: MawKorn slim with long legs and a thin mane (not chibi like his sheet), cream hand paws, and a second dragon wing placed next to Ert (looked like Ert's wing); steam puffs had tails like speech bubbles; Mx's paws on MawKorn's head, not shoulders; Mx must be SMALLER than the others (user).
+Attach in this order: `ert/references/conga-ref-1-ert.png`, `conga-ref-2-mx.png`, `conga-ref-3-mawkorn.png`.
+
+```
+Three reference images are attached. IMAGE 1 = ERT (a black cat mage). IMAGE 2 = MX (an orange tabby knight cat). IMAGE 3 = MAWKORN (a red dragon-cat, use his FRONT view). Copy each character's design EXACTLY from his own image. Ignore all labels and text in the images.
+
+Draw ONE sticker that means "Happy party train, choo choo!". The image must contain no words or letters at all.
+Scene: a conga line like a little train, on a diagonal from the upper left (back) to the lower right (front): MX at the back, MAWKORN in the middle, ERT at the front. MX rests both paws on MAWKORN's shoulders. MAWKORN rests both paws on ERT's shoulders. ERT raises both paws in the air. All three bounce in a happy dance, one foot kicked up, laughing with open mouths. All three face the viewer (front or 3/4 view).
+
+SIZES: MX is clearly SMALLER than the other two, about two-thirds of their height, like a little kid at the back of the line. ERT and MAWKORN are the same size.
+
+MAWKORN must look exactly like the FRONT view in IMAGE 3: chibi, a very big fluffy head framed on all sides by a full spiky red mane, big round eyes, two small red dots on the forehead, dark brown horns with gold bands, gold crown with a red gem, a short round body with a cream fluffy chest, SHORT chubby legs, DARK BROWN hand paws with gold bracelets, red scales with gold diamond studs, fluffy red-and-cream tail. His TWO red wings with gold edges are attached to HIS OWN back and spread behind HIM, not near Ert.
+ERT must look exactly like IMAGE 1: black fluffy cat, big yellow wizard hat with a bent tip and a blue star band with a gold sun-shaped blue gem badge, round amber eyes, long blue robe down to his boots with gold stars and gold trim, blue gem brooch at the collar, brown belt with a small book pouch, brown boots, fluffy dark tail. ERT HAS NO WINGS.
+MX must look exactly like IMAGE 2: orange tabby cat, silver-and-blue headband helmet with a gold cross badge and two small white wings on the sides of the head, silver armor with gold trim, blue cape with gold crosses, ringed brown-and-cream tail.
+Every character has exactly two arms, two legs and one tail.
+
+Effects: three small light-grey round steam clouds with dark outlines rising above ERT's hat like a train chimney (simple round puffs, NO pointed tails, they must not look like speech bubbles), a few small yellow music notes and sparkles.
+Style: 16-bit pixel art with bold dark outlines, bright saturated colors, cute chibi proportions.
+Output: ONE single sticker image, square 1:1, the three characters filling the image, centered, with a small empty margin on every side.
+Background: solid flat pure green (#00FF00) everywhere, no shadow, no floor, no gradient. Do not use any green on the characters or effects.
+NO white border or sticker outline. NO text, NO letters, NO numbers, NO speech bubbles. NO tears. No white effects.
+```
