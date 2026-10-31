@@ -111,4 +111,4 @@ Stickers the user SENDS appear on the RIGHT of the chat, stickers received appea
 
 ## Ert group sticker (new, user's request)
 - Ert (cat mage) sheets saved: `ert/references/ert-head-sheet.png`, `ert-body-sheet.png`; combined attach image `ert/references/attach-conga.png`.
-- Sticker 18: Mx + MawKorn + Ert conga train. Prompt `prompts/18-conga-train.md`; layout sketch shown to the user. Waiting for the image. This is an EXTRA sticker (set count to decide).
+- Sticker 18: Mx + MawKorn + Ert conga train. Prompt `prompts/18-conga-train.md`. **Approved: v1** (same image the user re-sent; v2 and the v3 prompt were worse/unneeded: "the more I fix, the worse") → `stickers/18-conga-train.png` (370×308, 199 KB). Extra sticker: set count to decide.
