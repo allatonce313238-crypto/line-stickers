@@ -103,3 +103,46 @@ Edit the attached Ert turnaround sheet. Keep everything else EXACTLY the same: l
 
 Same size, same ground line, same pixel art style, calm neutral face, amber eyes, no tears, no staff. Plain white background. No other text.
 ```
+
+## Sheet 1A v2 review (`ert/incoming/sheet1a-v2.png`)
+
+Fixed: figure 2 relabelled 3/4 Right (correct), figure 6 is now really turned toward the viewer's left.
+New problems in figure 6 (3/4 Left):
+1. TWO book-pouches (one on each hip). He has only one.
+2. Hat emblem moved to the other side of the hat (mirrored).
+Everything else unchanged and fine.
+
+## Optional fix prompt: Sheet 1A v2 → v3
+
+Attach `ert/incoming/sheet1a-v2.png`.
+
+```
+Edit the attached Ert turnaround sheet. Keep everything else EXACTLY the same. Change only the last figure in the top row, labelled 3/4 Left:
+1. He has only ONE brown book-pouch, on the same hip as in the Front view. Remove the extra book-pouch on the other hip; there the robe continues with its normal blue cloth and gold trim.
+2. The gold star emblem with the blue gem must be on the same side of the hat as in the Front view (his right side). Because he is turned toward the viewer's left, the emblem is on the near side of the hat, on the viewer's left part of the band. Remove the emblem from the viewer's right part of the band.
+Same pose, size, face, colors and pixel style. No other changes, no other text.
+```
+
+## Sheet 1B v1 review (`ert/incoming/sheet1b-v1.png`)
+
+Good: same head size and hat everywhere, amber eyes, no tears, Front / Left Side / Back / Right Side fine; expressions Happy, Laughing, Sad, Angry, Surprised all clear and different.
+Problems (same mistake as 1A v1):
+1. Head 2 (labelled 3/4 Left) faces the viewer's RIGHT.
+2. Head 6 (labelled 3/4 Right) is the Front mirrored, not turned.
+Minor: Sad ears are not drooping; Sleepy reads more "unimpressed / deadpan" than sleepy (still useful).
+
+## Fix prompt: Sheet 1B v1 → v2
+
+Attach `ert/incoming/sheet1b-v1.png`.
+
+```
+Edit the attached Ert head sheet. Keep everything else EXACTLY the same: layout, size, style, colors, every other head and label. Change only:
+
+1. Second head in the top row: keep the drawing as it is (it faces the viewer's right), only change its label to "3/4 Right".
+
+2. Sixth head in the top row (far right): it is currently the Front head mirrored. Redraw it as a real 3/4 view facing the viewer's LEFT: head turned halfway toward the viewer's left, face still visible, nose and mouth shifted toward the viewer's left, the far eye smaller near the edge of the face. Do not mirror the hat: the gold star emblem with the blue gem stays on his right side of the hat as in the Front head, which is now the near side, on the viewer's left part of the band. Only ONE emblem. Change its label to "3/4 Left".
+
+3. Sad head: make both ears droop down to the sides. No tears.
+
+Same size, same pixel style, amber eyes. Plain white background. No other text.
+```

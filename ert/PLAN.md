@@ -35,7 +35,10 @@ Based on the MawKorn plan (`mangkorn/PLAN.md` on branch `claude/line-stickers-bg
 - Decided: tail = **plain dark-grey fluffy**, same colour as the fur (no rings). Sheets have small labels.
 - Sheet 1 prompts written: `ert/sheet1-identity.md` (1A full-body turnaround + arms open + staff, 1B head close-ups + expressions). Attach: `ert/references/attach-sheet1.png`.
 - Sheet 1A v1 (`ert/incoming/sheet1a-v1.png`): mostly good; the 3/4 views are wrong (fig 2 faces right but is labelled 3/4 Left, fig 6 is a mirrored Front). Fix prompt in `ert/sheet1-identity.md`. Staff in his left paw (viewer's right) like the original sticker: keep.
-- Next step: user runs the Sheet 1A fix prompt → Claude reviews v2.
+- Sheet 1A v2 (`ert/incoming/sheet1a-v2.png`): 3/4 views fixed; 3/4 Left now has two book-pouches and the emblem mirrored (optional fix prompt).
+- Sheet 1B v1 (`ert/incoming/sheet1b-v1.png`): expressions good; same 3/4 mistake as 1A v1 → fix prompt.
+- Design rule: the hat emblem is on Ert's RIGHT side (viewer's left in the Front view); one book-pouch on his right hip; gold chain charm on his left hip.
+- Next step: user runs the 1B fix (and optionally the 1A fix) → Claude reviews.
 
 ## Character design (from the references)
 
