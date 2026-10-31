@@ -113,4 +113,4 @@ Stickers the user SENDS appear on the RIGHT of the chat, stickers received appea
 - Ert (cat mage) sheets saved: `ert/references/ert-head-sheet.png`, `ert-body-sheet.png`; combined attach image `ert/references/attach-conga.png`.
 - Sticker 18: Mx + MawKorn + Ert conga train. Prompt `prompts/18-conga-train.md`. **Approved: v1** (same image the user re-sent; v2 and the v3 prompt were worse/unneeded: "the more I fix, the worse") → `stickers/18-conga-train.png` (370×308, 199 KB). Extra sticker: set count to decide.
 
-- 19 Shh (hush gesture, front view, user's request): `prompts/19-shh.md`. Would make the 16th sticker (15 approved). Waiting for the image.
+- 19 Shh: **approved v1** (full body; the close-up v2 was cut off at the edges) → `stickers/19-shh.png`. **Set now has 16 approved stickers.** Next: main image 240×240, tab 96×74, upload order, ZIP (ask the user).
