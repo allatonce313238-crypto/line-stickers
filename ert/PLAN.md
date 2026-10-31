@@ -5,7 +5,7 @@ Based on the MawKorn plan (`mangkorn/PLAN.md` on branch `claude/line-stickers-bg
 
 ## The project
 
-- Character: **Ert**. Design: **to be filled in from the user's reference images** (not received yet).
+- Character: **Ert**, chibi black cat Great Wizard of the Fluffy Party (see Character design).
 - Format: **16 static LINE stickers** (no animation, no Kling).
 - Style: **16-bit pixel art** with bold dark outlines, bright saturated colors, cute chibi proportions (same look as MawKorn and Mx).
 - Repo: `allatonce313238-crypto/line-stickers`, branch `claude/blissful-archimedes-o1wbwm`, folder `ert/`.
@@ -29,17 +29,16 @@ Based on the MawKorn plan (`mangkorn/PLAN.md` on branch `claude/line-stickers-bg
   - `earth-wizard-scene.png`: wide fantasy scene casting a spell, full outfit visible.
   - `fluffy-party-poster.png`: Fluffy Party poster. Earth = 2nd member, "Great Wizard".
 - These references have text, speech bubbles and white die-cut borders. The new stickers must NOT have them.
-- **Open questions (ask):**
-  1. Name: the user says "Ert", the poster says "Earth". Which name goes in titles and file names?
-  2. `tools/make_sticker.py` (green removal, trim, fit to 370×320) is only on branch `claude/line-stickers-bg-dicut-302vim`. Copy it to this branch?
-  3. Confirm the 16-sticker list below.
+- Decided: public name **Ert** (titles, descriptions, prompts, file names). The reference file names keep "earth" (the poster's spelling).
+- Decided: 16 stickers, list below.
+- `tools/make_sticker.py` copied from `claude/line-stickers-bg-dicut-302vim`. It needs `numpy`, `scipy`, `Pillow` (`pip install scipy` if missing). Watch: its "lime-yellow" cleanup removes pale yellow pixels with almost no blue that touch the background, so check Ert's yellow hat edges after cleanup.
 - Decided: tail = **plain dark-grey fluffy**, same colour as the fur (no rings). Sheets have small labels.
 - Sheet 1 prompts written: `ert/sheet1-identity.md` (1A full-body turnaround + arms open + staff, 1B head close-ups + expressions). Attach: `ert/references/attach-sheet1.png`.
 - Next step: user makes Sheet 1A in ChatGPT → Claude reviews.
 
 ## Character design (from the references)
 
-- Name: **Earth** on the poster, "Ert" to the user (decide the public name). Role in Fluffy Party: **Great Wizard**.
+- Name: **Ert** (written "Earth" on the poster). Role in Fluffy Party: **Great Wizard**.
 - Species: chibi **black fluffy cat** wizard (cat face, not a human).
 - Face: round cat face, big round **amber-gold eyes** with white shine, small pink nose, small ":3" cat mouth (pink tongue when happy), pink blush, thin whiskers.
 - Fur: dark charcoal-black, fluffy and spiky (tufts on the cheeks and head); upright cat ears with pink insides.
@@ -123,7 +122,7 @@ Black cat, amber eyes, yellow wizard hat with blue starry band, blue robe with g
 - ZIP ≤ 60 MB.
 - Check the guideline page again before submitting.
 
-## The 16 stickers (DRAFT: confirm or change with the user)
+## The 16 stickers
 
 | No. | Sticker | Pose idea |
 |---|---|---|

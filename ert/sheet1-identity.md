@@ -1,6 +1,6 @@
-# Earth: Sheet 1, identity (2 images)
+# Ert: Sheet 1, identity (2 images)
 
-Purpose: lock Earth's look from every angle so every sticker stays consistent. Reference sheets, not stickers.
+Purpose: lock Ert's look from every angle so every sticker stays consistent. Reference sheets, not stickers.
 
 Split into 2 images (fewer figures per image = more consistent, more detail):
 - **Sheet 1A**: full-body turnaround + arms open + with staff + staff alone.
@@ -14,7 +14,7 @@ Lessons from MawKorn's sheet: ChatGPT added tears everywhere, skipped the 3/4 vi
 ## Prompt: Sheet 1A (full body)
 
 ```
-The attached image shows my character Earth, a chibi black cat wizard (left: a sticker, right: a scene). Ignore the background, sparkles, hearts and magic effects; use only the character.
+The attached image shows my character Ert, a chibi black cat wizard (left: a sticker, right: a scene). Ignore the background, sparkles, hearts and magic effects; use only the character.
 
 Create ONE character turnaround reference sheet, landscape 16:9, plain flat white background, 16-bit pixel art with bold dark outlines and bright saturated colors, cute chibi proportions (head about half of the total height). The character must look IDENTICAL in every figure: same size, same proportions, same colors, same outfit details, all standing on the same invisible ground line.
 
@@ -47,7 +47,7 @@ Text: only a small plain label under each figure: Front, 3/4 Left, Left Side, Ba
 Attach `attach-sheet1.png` and the approved Sheet 1A.
 
 ```
-Use the attached approved Sheet 1A as the exact design for Earth (the attached sticker and scene are extra reference). Ignore any background or effects.
+Use the attached approved Sheet 1A as the exact design for Ert (the attached sticker and scene are extra reference). Ignore any background or effects.
 
 Create ONE head close-up reference sheet, landscape 16:9, plain flat white background, the SAME 16-bit pixel art style, bold dark outlines, bright saturated colors. Every head must be the same size, same hat, same face, same colors as Sheet 1A.
 
