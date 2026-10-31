@@ -108,3 +108,7 @@ Not wanted in the 16: Good morning, Good night.
 ## LINE chat direction (answer given to the user)
 Stickers the user SENDS appear on the RIGHT of the chat, stickers received appear on the LEFT. A character that looks toward the chat from the right side faces LEFT; one received on the left faces RIGHT. A front-view character looks at the viewer on both sides, so it is the safest.
 - 17 Staring: **approved** (v2, `incoming/17-staring-v2.png`; the "..." dots removed in code with `--drop 60,380,290,480`) → `stickers/17-staring.png` (352×320). Prompt `prompts/17-staring.md`, front view. Set count now: 14 approved or planned (01–09, 11, 16, Lv.3, Lv.99, + staring) and still open: Lv.50, 10 Excited, 12 Crying, 14 Fighting!, 15 Tired → decide which to drop/keep (16 or 24).
+
+## Ert group sticker (new, user's request)
+- Ert (cat mage) sheets saved: `ert/references/ert-head-sheet.png`, `ert-body-sheet.png`; combined attach image `ert/references/attach-conga.png`.
+- Sticker 18: Mx + MawKorn + Ert conga train. Prompt `prompts/18-conga-train.md`; layout sketch shown to the user. Waiting for the image. This is an EXTRA sticker (set count to decide).
