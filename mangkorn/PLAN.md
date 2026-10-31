@@ -26,9 +26,9 @@ New chat? Read this whole file first, then continue from **Status**.
 - 05 Thank you: v3 = Chinese formal bow (front view, head bowed into joined paws, elbows out, no hearts) → `stickers/05-thank-you.png` (334×320). **Approved.** Older: v1 sitting (`incoming/05-thank-you-v1-sitting-clean.png`), v2 paws at chest (`incoming/05-thank-you-v2-clean.png`).
 - 06 Sorry: v4 = head down, eyes squeezed (><), paws together low, sweat drops → `stickers/06-sorry.png` (370×316). **Approved.** (The small white wiggle lines by the tail were removed by the cleanup.) Older versions in `incoming/06-*`. v2 (`incoming/06-sorry-v2-clean.png`) was offered for 07 Please; user wants a new pose.
 - 07 So full: v4 (sleepy-content eyes, orange burp puff, lying back) + forehead dots repainted solid red in code → `stickers/07-so-full.png` (340×320, `--no-border`). **Approved.** Older versions in `incoming/07-*`.
-- 08 Love: **mini heart v3 approved** → `stickers/08-love.png` (324×320, `--no-border`). 08b big heart: on hold (user went on to LOL, Surprised, Hug).
+- 08 Love: **mini heart v3 approved** → `stickers/08-love.png` (324×320, `--no-border`).
 - **Approved:** 09 LOL (Sheet 3 pose 6), 11 Surprised (pose 7, red "!!" removed in code with `--drop 1000,250,1240,540`), 16 Hug (pose 9 sitting, hugging an Mx plush in the Lcky-doll style). Forehead dots on tilted heads were fine (one above each eye along the tilt).
-- Done: 01–09, 11, 16 (11 of 16). **Left: 10 Excited, 12 Crying, 13 Angry, 14 Fighting!, 15 Tired.** 13 Angry = 3 separate stickers Lv.3 / Lv.50 / Lv.99 with a small "Lv.N" label added in code (user's choice) → set becomes 18: 2 must be dropped later (ask). Lv.3 prompt `prompts/13a-angry-lv3.md` (v1 squashed, v2 off-set, v3 edit-of-04 rejected as very bad; user likes v2 but not on-model → v5 prompt). **Lv.3 = v5 (original steam kept; the steam-moved version was rejected)** → `stickers/13a-angry-lv3.png`. "Lv.3" label to be added in code together with Lv.50/Lv.99; Lv.99 v2 (roaring dragon head) was approved, then the user changed the idea: **v3 = deadpan chibi in front + huge dark-shadow silhouette of the v2 dragon head behind** (prompt `prompts/13c-angry-lv99-v3.md`); v2 kept as `incoming/13c-angry-lv99-v2-clean.png`. v3 image received (`incoming/13c-angry-lv99-v3.png`): on-model, deadpan face, dark purple shadow dragon with red eyes; minor: hand paws cream not brown, tail looks like a round sack, shadow may vanish on dark chat theme. **Approved** → `stickers/13c-angry-lv99.png` (294×320, 134 KB). Checked on white / dark / grey: no green fringe (tool now clamps green again after resizing), shadow readable on dark. Waiting for the user's description of Lv.50. 08b big heart on hold. Overview: `mangkorn/stickers-overview.png`.
+- **Set complete: 16 stickers, renumbered 01–16, upload ZIP built (see "The 16 stickers (FINAL)").** Leftover ideas were removed by the user.
 - Tool update: stricter green removal + lime-yellow pocket removal; 01–03 re-processed with it.
 
 ## Rules from the user (follow every time)
@@ -82,28 +82,29 @@ New chat? Read this whole file first, then continue from **Status**.
 - Design: red scales with cream fluffy fur, dark curved horns with gold bands, gold crown with a red gem, red wings with gold edges, fluffy tail with gold spikes, big amber eyes, small fangs.
 - `mangkorn/sheet1-identity.md`, `mangkorn/sheet2-poses.md`: design-sheet prompts (optional, for consistency).
 
-## The 16 stickers
+## The 16 stickers (FINAL, 2026-10-31)
 
-| No. | Sticker | Pose |
+| No. | File | Sticker |
 |---|---|---|
-| 01 | Hello | Waves one clawed paw, wings slightly open |
-| 02 | On my way! | Flying forward, wings beating, speed lines |
-| 03 | OK | Holds up a red O sign |
-| 04 | No | Holds up a blue X sign |
-| 05 | Thank you | Bows, paw on chest, wings folded |
-| 06 | Sorry | Bows low, ears and wings drooping |
-| 07 | So full | Lying on his back, huge round belly, paw rubbing it, tall stack of empty plates above his head (replaced Please) |
-| 08 | Love | Kneeling, blowing a heart-shaped puff of pink-orange fire |
-| 09 | LOL | Sitting down, laughing hard, pointing one claw forward |
-| 10 | Excited | Jumping, wings flapping, sparkle eyes |
-| 11 | Surprised | Jumps back, crown popping up |
-| 12 | Crying | Big tears, tiny sobbing smoke puffs |
-| 13 | Angry | Stomping, small burst of fire, steam from the ears |
-| 14 | Fighting! | Fists up, breathing fire (like `full-res/08.png`) |
-| 15 | Tired | Lying flat, exhausted |
-| 16 | Hug | Hugs a small round Mx plush doll (dot eyes, no mouth) |
+| 01 | `stickers/01-hello.png` | Hello |
+| 02 | `stickers/02-on-my-way.png` | On my way! (tricycle) |
+| 03 | `stickers/03-ok.png` | OK (red O sign) |
+| 04 | `stickers/04-no.png` | No (blue X sign) |
+| 05 | `stickers/05-thank-you.png` | Thank you (Chinese bow) |
+| 06 | `stickers/06-sorry.png` | Sorry |
+| 07 | `stickers/07-so-full.png` | So full |
+| 08 | `stickers/08-love.png` | Love (finger heart) |
+| 09 | `stickers/09-lol.png` | LOL |
+| 10 | `stickers/10-surprised.png` | Surprised (was 11) |
+| 11 | `stickers/11-angry-lv3.png` | Angry Lv.3 (was 13a) |
+| 12 | `stickers/12-angry-lv99.png` | Angry Lv.99, shadow dragon (was 13c) |
+| 13 | `stickers/13-hug.png` | Hug (was 16) |
+| 14 | `stickers/14-staring.png` | Staring (was 17) |
+| 15 | `stickers/15-shh.png` | Shh (was 19) |
+| 16 | `stickers/16-conga-train.png` | Conga train with Ert and Mx (was 18) |
 
-Not wanted in the 16: Good morning, Good night.
+Upload set: `line-upload/01.png`–`16.png`, `main.png` (240×240, from Hello), `tab.png` (96×74, from Hello); ZIP: `line-stickers-upload.zip`. All checked: ≤370×320, even sizes, ≤1 MB, transparent.
+Dropped and removed by the user (not made): Please, Eating, Excited, Crying, Fighting!, Tired, Angry Lv.50, big heart (saranghae). Prompt files in `prompts/` keep their OLD numbers (see "was" above).
 
 ## LINE chat direction (answer given to the user)
 Stickers the user SENDS appear on the RIGHT of the chat, stickers received appear on the LEFT. A character that looks toward the chat from the right side faces LEFT; one received on the left faces RIGHT. A front-view character looks at the viewer on both sides, so it is the safest.
