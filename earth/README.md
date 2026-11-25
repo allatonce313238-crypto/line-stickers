@@ -1,6 +1,6 @@
-# Earth (black cat mage) — collection handover
+# Ert (black cat mage) — collection handover
 
-Status: NEW collection, not started. Notes for a fresh chat.
+Name: **Ert** everywhere (decided by the user; the earlier "Earth" spelling is not used). Status: NEW collection, not started. Notes for a fresh chat.
 
 ## Where the character designs are
 
@@ -15,8 +15,8 @@ Repo `allatonce313238-crypto/line-stickers`, branch `claude/line-stickers-bg-dic
 - `mangkorn/`: finished MawKorn set (16 stickers, `line-upload/`), prompts and PLAN.md.
 - `mx/`: Mx reference sheet.
 
-## Open question for the user
-The user first called the black cat mage "Ert" and now "Earth". The files look like the same character (black cat, yellow wizard hat, blue robe with gold stars). Confirm before drawing.
+## Name
+Use **Ert** in all titles, prompts and file names. The folder is still named `earth/` for now.
 
 ## Character notes (from the existing art)
 - Black fluffy cat, amber-yellow eyes, pink inner ears, pink nose.
@@ -24,6 +24,7 @@ The user first called the black cat mage "Ert" and now "Earth". The files look l
 - Blue robe with gold stars and gold trim, blue gem brooch at the collar, brown belt with a small book pouch.
 - Brown boots, fluffy dark tail. No wings.
 - Personality for this set: grumpy (ขี้หงุดหงิด).
+- Same character as the `ert/` sheets in this repo.
 
 ## Rules that carry over from MawKorn (`mangkorn/PLAN.md`)
 - Never copy-paste between chats: prompts go in the chat as text; ChatGPT can't read private repo files, so attach images.
